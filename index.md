@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 <h1 class="page-title">{{ site.title }}<br>
-Jul 14 &ndash; Jul 19, 2023<br>Delft, Netherlands</h1>
+Jul 14 &ndash; Jul 19, 2024<br>Delft, Netherlands</h1>
 
 
 <div id="dayselector" style="width: 100%; text-align: center; justify-content: center; display: inline-flex;">
