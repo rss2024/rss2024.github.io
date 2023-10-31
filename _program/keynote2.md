@@ -3,7 +3,7 @@ layout: page
 title: "Keynote: John Rogers"
 description: Keynote talk title, abstract and speaker bio.
 priority: 8
-invisible: true
+invisible: false
 published: false
 ---
 

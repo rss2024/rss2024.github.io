@@ -4,7 +4,7 @@ title: Registration
 description: Register for the conference.
 priority: 11
 invisible: false
-published: true
+published: false
 ---
 
 <div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">

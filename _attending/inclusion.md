@@ -3,7 +3,7 @@ layout: page
 title: Inclusion@RSS
 priority: 7
 invisible: false
-published: true
+published: false
 ---
 
 The RSS community is committed to increasing the participation of groups traditionally underrepresented in robotics (including but not limited to: women, LGBTQ+, underrepresented minorities, and people with disabilities), especially people early in their studies and career. Such efforts are crucial for increasing research capacity, creativity, and broadening the impact of robotics research. To that end, [Inclusion@RSS](https://sites.google.com/seas.upenn.edu/inclusion-rss-2023/home){:target="_blank"} will be an integral part of RSS that will focus on programs that increase and sustain a broader participation in the robotics research community. Component programs will range from co-located events to sponsored activities during the main conference.

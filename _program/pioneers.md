@@ -4,7 +4,7 @@ title: RSS Pioneers
 description: RSS Pioneers Info
 priority: 4
 invisible: false
-published: true
+published: false
 ---
 
 RSS Pioneers is a workshop for senior Ph.D. students and postdocs, held in

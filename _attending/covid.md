@@ -3,6 +3,8 @@ layout: page
 title: Covid-19 Policies
 description: Covid-19 Policies
 priority: 8
+invisible: false
+published: false
 ---
 
 All in-person attendees will have to adhere to the policies of the venue. As of March 2023, no restrictions apply but we will be monitoring the situation. Details will be shared with attendees on this page. 

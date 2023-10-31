@@ -4,7 +4,7 @@ title: Overview
 description: Overview of the program.
 priority: 12
 invisible: false
-published: true
+published: false
 ---
 
 This schedule makes it easy to find sesssion information, technical content, and events. A pdf copy of the program overview is available <a href="{{ site.baseurl }}/images/RSS_Schedule.pdf"><strong>[here]</strong>.</a>

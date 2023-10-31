@@ -4,7 +4,7 @@ title: Local Tours
 description: Local tour information at Daegu.
 priority: 9
 invisible: false
-published: true
+published: false
 ---
 
 {:refdef: style="text-align: center;"}

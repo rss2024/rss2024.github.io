@@ -4,7 +4,7 @@ title: Travel Information
 description: Travel information for our conference venue.
 priority: 10
 invisible: false
-published: true
+published: false
 ---
 {% comment %}
 {:refdef: style="text-align: center;"}
