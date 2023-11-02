@@ -2,6 +2,8 @@
 layout: page
 title: Organizing Committee
 description: Organizing team.
+invisible: false
+published: false
 ---
 
 
@@ -9,12 +11,12 @@ description: Organizing team.
 
     <div class="row text-center">
       <b>Program Chair</b><br>
-            <a target="_blank" href="https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/">Kostas E. Bekris</a><br>
-            <i>Rutgers University, USA</i><br>
+            <a target="_blank" href="https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/">Dana Kulic</a><br>
+            <i> Monash University, Australia</i><br>
       <br>
       <b>General Chair</b><br>
-            <a target="_blank" href="http://kkhauser.web.illinois.edu/">Kris Hauser</a><br>
-            <i>University of Illinois Urbana-Champaign, USA</i><br>
+            <a target="_blank" href="http://kkhauser.web.illinois.edu/">Gentiane Venture</a><br>
+            <i>Tokyo University, Japan</i><br>
       <br>
       <b>Workshop Chairs</b><br>
             <table style="margin-left:auto;margin-right:auto;">
