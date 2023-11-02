@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 <h1 class="page-title">{{ site.title }}<br>
-Jul 14 &ndash; Jul 19, 2024<br>Delft, Netherlands</h1>
+Jul 15 &ndash; Jul 19, 2024<br>Delft, Netherlands</h1>
 
 
 <div id="dayselector" style="width: 100%; text-align: center; justify-content: center; display: inline-flex;">
@@ -50,7 +50,7 @@ $(document).ready(function() {
 
 ### Call for Participation
 
-We are pleased to announce the 20th edition of the “Robotics: Science and Systems” (RSS) conference to be held at the [Delft University of Technology](https://www.tudelft.nl/en/){:target="_blank"}, Delft, Netherlands in July 14-19, 2024. 
+We are pleased to announce the 20th edition of the “Robotics: Science and Systems” (RSS) conference to be held at the [Delft University of Technology](https://www.tudelft.nl/en/){:target="_blank"}, Delft, Netherlands in July 15-19, 2024. 
 
 The Robotics: Science and Systems has a long history of bringing together
 researchers in all areas of robotics from around the world for an engaging and
@@ -68,7 +68,7 @@ tutorials. This year, as always, we solicit your best work.
     </thead>
     <tbody>
       <tr>
-        <td colspan="2">July 14th &ndash; July 19th, 2023</td>
+        <td colspan="2">July 15th &ndash; July 19th, 2023</td>
         <td>RSS 2024, Delft, Netherlands</td>
       </tr>
     </tbody>
