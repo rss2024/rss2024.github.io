@@ -3,16 +3,17 @@ layout: page
 title: Call for Papers and Demos
 description: Request for Participation for Papers and Demos
 invisible: false
-published: false
+published: true
 ---
 
-We are pleased to announce the 19th edition of the “Robotics: Science and Systems” (RSS) conference to be held at the [Daegu Exhibition and Convention Center (EXCO)](https://exco.co.kr/eng/){:target="_blank"}, Daegu, Republic of Korea in July 10-14, 2023. This will be the first time that RSS is taking place in Asia and we are excited to be opening up the conference to a broader community of robotics researchers. 
+We are pleased to announce the 20th edition of the “Robotics: Science and Systems” (RSS) conference to be held at the [Technical University of Delft](https://www.tudelft.nl/en/){:target="_blank"} in Delft, Netherlands, from July 15 - 19, 2024. 
 
-RSS is a single-track conference that connects researchers working on all aspects of robotics including scientific foundations, mechanisms, algorithms, applications, and analysis of robotic systems. The single-track format gives attendees an opportunity to learn about state-of-the-art research in all areas of robotics. The conference will consist of oral and poster presentations of accepted papers, demonstrations, invited talks, and panels. 
+RSS is a single-track conference that connects researchers working on all aspects of robotics including scientific foundations, mechanisms, algorithms, applications, and analysis of robotic systems. The single-track format gives attendees an opportunity to learn about state-of-the-art research in all areas of robotics. The conference will consist of oral and poster presentations of accepted papers, demonstrations, invited talks, and panels.
 
 The conference will preserve the RSS tradition of selecting excellent papers via a thorough and fair review process. Paper submissions will be evaluated in terms of their novelty, technical quality, significance, potential impact, and clarity.
 
-This year the conference will include a new category of contributions in the form of Demos, similar to conferences in related research areas, resulting in a Demo Track during the main conference. 
+The conference will again include the recently added category of Demo contributions, similar to conferences in related research areas, resulting in a Demo Track during the main conference.
+
 
 
 ## Important Dates
@@ -24,61 +25,70 @@ This year the conference will include a new category of contributions in the for
     </thead>
     <tbody>
       <tr>
-        <td colspan="2"><strike>January, 2023</strike></td>
-        <td><a href="https://cmt3.research.microsoft.com/RSS2023" target="_blank">Submission Website</a> Opens</td>
+        <td colspan="2">January, 2024</td>
+        <td><a href="" target="_blank">Submission Website</a> Opens</td>
       </tr>
       <tr>
-        <td><strike>February 3rd, 2023</strike></td>
+        <td>February 2rd, 2024</td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Paper and Demo Submission Deadline</td>
       </tr>
       <tr>
-        <td><strike>February 8th, 2023</strike></td>
+        <td>February 8th, 2024</td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Supplementary Material Deadline</td>
       </tr>
       <tr>
-        <td colspan="1"><strike>April 3rd &ndash; April 8th, 2023</strike></td>
-        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td>Reviews Released and Rebuttal Invitations</td>
+        <td colspan="1">March 29, 2024 </td>
+        <td></td>
+        <td>Reviews Released</td>
       </tr>
       <tr>
-        <td colspan="2"><strike>April 22th, 2023</strike></td>
+        <td colspan="1">April 19, 2024 </td>
+        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td>Paper revision, response to reviews Submission Deadline</td>
+      </tr>
+      <tr>
+        <td colspan="2">May 13, 2024</td>
         <td>Paper and Demo Acceptance Notification</td>
       </tr>
       <tr>
-        <td colspan="1"><strike>May 28th, 2023</strike></td>
+        <td colspan="1">May 31, 2024</td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Camera-ready Submission</td>
       </tr>
       <tr>
-        <td colspan="2">July 10th &ndash; July 14th, 2023</td>
-        <td>RSS 2023, Daegu, Republic of Korea</td>
+        <td colspan="2">July 15th &ndash; July 19th, 2024</td>
+        <td>RSS 2024, Delft, Netherlands</td>
       </tr>
     </tbody>
 </table>
 
-RSS 2023 has no page length requirements on submissions. Paper lengths have been typically 8 pages given the paper template, which is available either in [LaTeX]({{ site.baseurl }}/docs/paper-template-latex.tar.gz) or [Word]({{ site.baseurl }}/docs/paper-template-word.zip) format. We expect that most submitted papers will have a similar length. We trust that authors will recognize that respecting reviewers’ time is helpful to the evaluation of their work. 
+RSS 2024 has no page length requirements on submissions.  Traditionally, RSS submissions have been 8 pages given the paper template, which is available either in [LaTeX]({{ site.baseurl }}/docs/paper-template-latex.tar.gz) or [Word]({{ site.baseurl }}/docs/paper-template-word.zip) format. We expect that most submitted papers will have a similar length. We trust that authors will recognize that respecting reviewers’ time is helpful to the evaluation of their work.
 
+<!-- 
 **Detailed submission instructions are available [here]({{ site.baseurl }}/information/authorinfo/).**
 
-**Papers and demos can be submitted [here](https://cmt3.research.microsoft.com/RSS2023){:target="_blank"}**
+**Papers and demos can be submitted [here](https://cmt3.research.microsoft.com/RSS2023){:target="_blank"}**-->
 
 
 ## Highlights of RSS 2023
 
-  *   RSS 2023 is planned as an in-person conference, excluding any unexpected developments with the COVID-19 pandemic or similar unfortunate global events.
+  *   RSS 2024 and its accompanying workshops are planned as in-person events, excluding any unexpected developments with the COVID-19 pandemic or similar unfortunate global events.
 
-  *  A new type of submission, Demos, will be available to RSS 2023 contributors. These single-blind submissions can range from early research demos (e.g., innovative, proof-of-concept given the state-of-the-art) to mature production-ready systems (e.g., accessible, large-scale industrial systems). Open-source and open-access systems or interactive systems that are accessible by the community are especially encouraged. Demos can relate to hardware or software contributions or their integration. They can also relate to critical system components and useful tools for the community. The deadline and the review process for demos will take place in parallel with the review of regular RSS paper submissions.  Detailed submission instructions will be made available under the conference website by January, 2023.
+  *  Demo submissions will be possible for RSS 2024 contributors. These single-blind submissions can range from early research demos (e.g., innovative, proof-of-concept given the state-of-the-art) to mature production-ready systems (e.g., accessible, large-scale industrial systems), which can be demonstrated during the meeting. Open-source and open-access systems or interactive systems that are accessible by the community are especially encouraged. Demos can relate to hardware or software contributions or their integration. They can also relate to critical system components and useful tools for the community. The deadline and the review process for demos will take place in parallel with the review of regular RSS paper submissions. Detailed submission guidelines for Demos will be available on the conference website and will be similar to last year’s process.
 
-  *   The review process will continue RSS' strong tradition in emphasizing quality, fairness, and rigor. Reviews for RSS papers, including both for “science” and “systems” papers, will remain double-blind. A subset of authors will be invited by Area Chairs to submit a rebuttal. Author rebuttals will be directed to the ACs and considered during the program committee meeting. As in previous iterations of the conference, authors are encouraged to submit “systems” papers and the program committee will be encouraged to evaluate them by gauging their potential impact and usefulness to the community. 
+  *   The review process will continue RSS’ strong tradition in emphasizing quality, fairness, and rigor. Reviews for RSS papers of all types, i.e., “science”, “systems” and “demo” papers, will remain blind. As in previous iterations of the conference, authors are encouraged to submit “systems” papers and the program committee will be encouraged to evaluate them by gauging their potential impact and usefulness to the community.
 
-  *   RSS maintains a strong on-going relationship with top robotics journals. Authors of RSS papers have been invited to submit extended versions of their papers to Special Issues of the International Journal of Robotics Research (IJRR), Autonomous Robots (AuRo) and the IEEE Transactions on Robotics (T-RO).
+  *   The conference will follow a two-stage review process this year. During the first round (up to March 29) a threshold decision will be made by the reviewers and the Area Chair given the initial submission. The submissions above the threshold will have 3 weeks to revise and resubmit as well as rebut any review comments as part of the authors’ response. For the second round of the review process, the revised submission and authors’ responses will be shared with the original reviewers and the Area Chair. An Area Chair meeting will finalise decisions regarding the revised submissions by May 13.
+
+
+
 
 
 ## Subject Areas
 
-RSS seeks high-quality research papers and demos that introduce new ideas and stimulate future trends in robotics. We invite paper and demo submissions in all areas of robotics, including: 
+RSS seeks high-quality research papers and demos that introduce new ideas and stimulate future trends in robotics. We invite paper and demo submissions in all areas of robotics, including:
 
 * Assembly, Logistics and Manufacturing; 
 * Assistive, Entertainment and Service Robots; 
