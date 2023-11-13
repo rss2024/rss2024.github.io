@@ -11,10 +11,7 @@ published: true
 
     <div class="row text-center">
 
-      <b>General Chair</b><br>
-            <a target="_blank" href="https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/">Kostas Bekris</a><br>
-            <i>Rutgers University, USA</i><br>
-      <br>
+    <br>
       <b>Program Chairs</b><br>
        <table style="margin-left:auto;margin-right:auto;">
             <tr>
@@ -30,6 +27,13 @@ published: true
             </tr>
             </table>
             
+      <br>
+            <b>General Chair</b><br>
+            <a target="_blank" href="https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/">Kostas Bekris</a><br>
+            <i>Rutgers University, USA</i><br>
+  
+      
+
       <br>
    
          <b>Workshop Chairs</b><br>

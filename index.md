@@ -27,6 +27,8 @@ $(document).ready(function() {
 
 ### News and Updates
 
+*  Call for Papers and Demos is out [here]({{ site.baseurl }}/information/cfp).
+
 
 {% comment %}
 <div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">
@@ -68,7 +70,40 @@ tutorials. This year, as always, we solicit your best work.
     </thead>
     <tbody>
       <tr>
-        <td colspan="2">July 15th &ndash; July 19th, 2023</td>
+        <td colspan="2">January, 2024</td>
+        <td><a href="" target="_blank">Submission Website</a> Opens</td>
+      </tr>
+      <tr>
+        <td>February 2rd, 2024</td>
+        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td>Paper and Demo Submission Deadline</td>
+      </tr>
+      <tr>
+        <td>February 8th, 2024</td>
+        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td>Supplementary Material Deadline</td>
+      </tr>
+      <tr>
+        <td colspan="1">March 29, 2024 </td>
+        <td></td>
+        <td>Reviews Released</td>
+      </tr>
+      <tr>
+        <td colspan="1">April 19, 2024 </td>
+        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td>Paper revision, response to reviews Submission Deadline</td>
+      </tr>
+      <tr>
+        <td colspan="2">May 13, 2024</td>
+        <td>Paper and Demo Acceptance Notification</td>
+      </tr>
+      <tr>
+        <td colspan="1">May 31, 2024</td>
+        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td>Camera-ready Submission</td>
+      </tr>
+      <tr>
+        <td colspan="2">July 15th &ndash; July 19th, 2024</td>
         <td>RSS 2024, Delft, Netherlands</td>
       </tr>
     </tbody>
