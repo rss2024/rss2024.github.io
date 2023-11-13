@@ -72,7 +72,7 @@ RSS 2024 has no page length requirements on submissions.  Traditionally, RSS sub
 **Papers and demos can be submitted [here](https://cmt3.research.microsoft.com/RSS2023){:target="_blank"}**-->
 
 
-## Highlights of RSS 2023
+## Highlights of RSS 2024
 
   *   RSS 2024 and its accompanying workshops are planned as in-person events, excluding any unexpected developments with the COVID-19 pandemic or similar unfortunate global events.
 
