@@ -26,7 +26,7 @@ The conference will again include the recently added category of Demo contributi
     <tbody>
       <tr>
         <td colspan="2">January, 2024</td>
-        <td><a href="" target="_blank">Submission Website</a> Opens</td>
+        <td>Submission Website Opens</td>
       </tr>
       <tr>
         <td>February 2rd, 2024</td>
