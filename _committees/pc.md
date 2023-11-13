@@ -158,8 +158,8 @@ description: Reviewing team.
 </td>
 <td style="width:45px;"></td>
 <td style="width:200px;vertical-align:top;">
-    <a style="display: block;" target="_blank" href="#">Mahla Nejati</a>
-    <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">Auckland U., New Zealand</i>
+    <a style="display: block;" target="_blank" href="#">Chang Liu</a>
+    <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">Peking University, China</i>
 </td>
 </tr>
 <tr>
@@ -193,12 +193,6 @@ description: Reviewing team.
 <td style="width:200px;vertical-align:top;">
     <a style="display: block;" target="_blank" href="#">Di Guo</a>
     <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">Tsinghua, China</i>
-</td>
-</tr>
-<tr>
-<td style="width:200px;vertical-align:top;">
-    <a style="display: block;" target="_blank" href="#">Chang Liu</a>
-    <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">Peking University, China</i>
 </td>
 </tr>
 
