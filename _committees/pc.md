@@ -192,7 +192,7 @@ description: Reviewing team.
 <td style="width:45px;"></td>
 <td style="width:200px;vertical-align:top;">
     <a style="display: block;" target="_blank" href="#">Di Guo</a>
-    <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">Tsinghua, China</i>
+    <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">BUPT, China</i>
 </td>
 </tr>
 
