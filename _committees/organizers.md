@@ -125,6 +125,7 @@ published: true
             <a target="_blank" href=""><br>
             <i></i><br>
       <br> -->
+
   
       <b>RSS Pioneers Chairs</b><br>
             <table style="margin-left:auto;margin-right:auto;">
@@ -166,6 +167,26 @@ published: true
                   </tr>
                    </table>
       <br>
+
+      <b>Inclusion Chair</b><br>
+      <table style="margin-left:auto;margin-right:auto;">
+            <tr>
+                  <td style="width:200px;vertical-align:top;">
+                            Maartje de Graaf<br>
+                        <i>Utrecht University, Netherlands</i><br>
+                  </td>
+                  <td style="width:45px;"></td>
+                  <td style="width:200px;vertical-align:top;">
+                       Khen Elimelech<br>
+                        <i>  Rice University, USA</i><br>
+                  </td>
+            </tr>
+            </table>
+
+       
+      <br>
+
+
     </div>
 
 </div>
