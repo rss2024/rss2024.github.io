@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Robotics: Science and Systems</title>
- <link href="https://roboticsconference.org/atom.xml" rel="self"/>
- <link href="https://roboticsconference.org/"/>
- <updated>2023-11-21T19:23:16+09:00</updated>
- <id>https://roboticsconference.org</id>
+ <link href="https://rss2023.github.io/rss2023-website/atom.xml" rel="self"/>
+ <link href="https://rss2023.github.io/rss2023-website/"/>
+ <updated>2023-11-30T20:26:26+09:00</updated>
+ <id>https://rss2023.github.io/rss2023-website</id>
  <author>
    <name>Rahul Shome</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Paper Review Form</title>
-   <link href="https://roboticsconference.org/2019/12/04/review-form/"/>
+   <link href="https://rss2023.github.io/rss2023-website/2019/12/04/review-form/"/>
    <updated>2019-12-04T00:00:00+09:00</updated>
-   <id>https://roboticsconference.org/2019/12/04/review-form</id>
+   <id>https://rss2023.github.io/rss2023-website/2019/12/04/review-form</id>
    <content type="html">&lt;p&gt;Here is the paper review form for RSS 2020.&lt;/p&gt;
 
 &lt;ol&gt;
@@ -82,10 +82,10 @@ Poor (a paper that needs significant work)
  
  <entry>
    <title>Paper Format</title>
-   <link href="https://roboticsconference.org/2019/12/04/paper-format/"/>
+   <link href="https://rss2023.github.io/rss2023-website/2019/12/04/paper-format/"/>
    <updated>2019-12-04T00:00:00+09:00</updated>
-   <id>https://roboticsconference.org/2019/12/04/paper-format</id>
-   <content type="html">&lt;p&gt;We only accept submissions in PDF. Submissions may be up to 8 pages in length, including figures but possibly excluding references. Additional pages can be used for references. However, the 9th page, and any subsequent pages, can contain ONLY references. This will be strictly enforced. Submissions can use a font no smaller than 10 point. Submissions violating these guidelines will not be considered. A paper template is available in &lt;a href=&quot;/docs/paper-template-latex.tar.gz&quot;&gt;Latex&lt;/a&gt; and &lt;a href=&quot;/docs/paper-template-word.zip&quot;&gt;Word&lt;/a&gt;.&lt;/p&gt;
+   <id>https://rss2023.github.io/rss2023-website/2019/12/04/paper-format</id>
+   <content type="html">&lt;p&gt;We only accept submissions in PDF. Submissions may be up to 8 pages in length, including figures but possibly excluding references. Additional pages can be used for references. However, the 9th page, and any subsequent pages, can contain ONLY references. This will be strictly enforced. Submissions can use a font no smaller than 10 point. Submissions violating these guidelines will not be considered. A paper template is available in &lt;a href=&quot;/2023/docs/paper-template-latex.tar.gz&quot;&gt;Latex&lt;/a&gt; and &lt;a href=&quot;/2023/docs/paper-template-word.zip&quot;&gt;Word&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Do not modify the formatting provided in the templates. Any change to font sizes, page dimensions, line spacing, etc. may delay the publication of your paper. Please do not include any additional markings such as &lt;i&gt;Draft&lt;/i&gt; or &lt;i&gt;To appear in…&lt;/i&gt; on the pages. Make sure your paper does not contain page numbers.&lt;/p&gt;
 
@@ -104,9 +104,9 @@ Before submitting your PDF file, please open it in Acrobat Reader. In the File m
  
  <entry>
    <title>Multiple Submissions</title>
-   <link href="https://roboticsconference.org/2019/12/04/multiple-submissions/"/>
+   <link href="https://rss2023.github.io/rss2023-website/2019/12/04/multiple-submissions/"/>
    <updated>2019-12-04T00:00:00+09:00</updated>
-   <id>https://roboticsconference.org/2019/12/04/multiple-submissions</id>
+   <id>https://rss2023.github.io/rss2023-website/2019/12/04/multiple-submissions</id>
    <content type="html">&lt;p&gt;Submissions that are identical (or substantially similar) to versions that have been previously published, or accepted for publication, or that have been submitted in parallel to other conferences are not appropriate for RSS and violate our dual submission policy.&lt;/p&gt;
 
 &lt;p&gt;Exceptions to this rule are the following:&lt;/p&gt;
@@ -123,9 +123,9 @@ Before submitting your PDF file, please open it in Acrobat Reader. In the File m
  
  <entry>
    <title>Guidelines for Double Blind Submissions</title>
-   <link href="https://roboticsconference.org/2019/12/04/double-blind/"/>
+   <link href="https://rss2023.github.io/rss2023-website/2019/12/04/double-blind/"/>
    <updated>2019-12-04T00:00:00+09:00</updated>
-   <id>https://roboticsconference.org/2019/12/04/double-blind</id>
+   <id>https://rss2023.github.io/rss2023-website/2019/12/04/double-blind</id>
    <content type="html">&lt;p&gt;Double Blind reviewing requires that the paper reviewers should not know the names or affiliation of the paper authors. This is desirable to remove any possible or perceived bias toward a paper on non technical grounds. However, in practice this is difficult to achieve in full as descriptions of background material or experiments, which are essential to the technical content of the paper, often give a clear indication to knowledgeable reviewers of the likely source of the paper. RSS 2020 will try to adopt a pragmatic approach to double blind reviewing in which authors are encouraged to hide identity without unduly affecting the quality or import of their submission.&lt;/p&gt;
 
 &lt;p&gt;The following general principles should be applied in submissions:&lt;/p&gt;
