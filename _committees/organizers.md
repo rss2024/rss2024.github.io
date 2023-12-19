@@ -147,6 +147,11 @@ published: true
             <i>AIST, Japan</i><br>
       <br>
 
+      <b>Submissions Chair</b><br>
+            Kavi Katuwandeniya<br>
+            <i>CSIRO, Australia</i><br>
+      <br>
+
       <b>Accessibility Committee</b><br>
             <table style="margin-left:auto;margin-right:auto;">
             <tr>
