@@ -113,7 +113,7 @@ published: true
                   <td style="width:45px;"></td>
                   <td style="width:200px;vertical-align:top;">
                         <a target="_blank" href="https://danielseita.github.io/"> Daniel Seita </a><br>
-                        <i> University of Southern California, USA</i><br>
+                        <i> University of South California, USA</i><br>
                   </td>
             </tr>
             </table>
