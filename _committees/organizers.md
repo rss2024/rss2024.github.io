@@ -113,7 +113,7 @@ published: true
                   <td style="width:45px;"></td>
                   <td style="width:200px;vertical-align:top;">
                         <a target="_blank" href="https://danielseita.github.io/"> Daniel Seita </a><br>
-                        <i> University of South California, USA</i><br>
+                        <i> University of Southern California, USA</i><br>
                   </td>
             </tr>
             </table>
@@ -145,6 +145,11 @@ published: true
 	<b>Website Chair</b><br>
             <a target="_blank" href="https://enriquecoronadozu.github.io/"> Enrique Coronado </a><br>
             <i>AIST, Japan</i><br>
+      <br>
+
+      <b>Submissions Chair</b><br>
+            Kavi Katuwandeniya<br>
+            <i>CSIRO, Australia</i><br>
       <br>
 
       <b>Accessibility Committee</b><br>
