@@ -66,9 +66,9 @@ The conference will again include the recently added category of Demo contributi
 
 RSS 2024 has no page length requirements on submissions.  Traditionally, RSS submissions have been 8 pages given the paper template, which is available either in [LaTeX]({{ site.baseurl }}/docs/paper-template-latex.tar.gz) or [Word]({{ site.baseurl }}/docs/paper-template-word.zip) format. We expect that most submitted papers will have a similar length. We trust that authors will recognize that respecting reviewers’ time is helpful to the evaluation of their work.
 
-<!-- 
-**Detailed submission instructions are available [here]({{ site.baseurl }}/information/authorinfo/).**
 
+**Detailed submission instructions are available [here]({{ site.baseurl }}/information/authorinfo/).**
+<!-- 
 **Papers and demos can be submitted [here](https://cmt3.research.microsoft.com/RSS2023){:target="_blank"}**-->
 
 
@@ -118,5 +118,5 @@ RSS seeks high-quality research papers and demos that introduce new ideas and st
 
 Please check the conference website as well as the conference’s social media accounts for more information.
 
-
+**Detailed submission instructions are available [here]({{ site.baseurl }}/information/authorinfo/).**
 
