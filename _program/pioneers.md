@@ -25,9 +25,9 @@ Follow the RSS Pioneers [social media accounts](https://twitter.com/RSSPioneers)
     </thead>
     <tbody>
       <tr>
-        <td>February 9th, 2024</td>
+        <td colspan="2">February 9th, 2024</td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td><a href="https://sites.google.com/view/rsspioneers2024/." target="_blank">RSS Pioneers</a> Submission Deadline</td>
+        <td>RSS Pioneers Submission Deadline</td>
       </tr>
       <tr>
         <td colspan="2">May 1st, 2024</td>
@@ -37,7 +37,7 @@ Follow the RSS Pioneers [social media accounts](https://twitter.com/RSSPioneers)
       <tr>
         <td colspan="2">July 14th, 2024</td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td>RSS Pioneers Workshop, Delft, Netherlands</td>
+        <td>RSS Pioneers Workshop</td>
       </tr>
     </tbody>
 </table>

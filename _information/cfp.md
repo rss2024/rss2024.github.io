@@ -104,8 +104,13 @@ RSS seeks high-quality research papers and demos that introduce new ideas and st
 * Mechanisms & Design; 
 * Medical Robotics; 
 * Multi-Robot & Networked Systems; 
-* Robot Learning; 
+* Robot Learning: Foundation models;
+* Robot Learning: Reinforcement learning;
+* Robot learning: imitation learning;
+* Robot learning: model learning;
+* Robot learning: datasets and benchmarks;
 * Robot Modeling & Simulation; 
+* Perceptual learning
 * Robot Perception, Sensing & Vision; 
 * Robot Planning; 
 * Robot State Estimation, Localization & Mapping;
