@@ -121,9 +121,9 @@ Exceptions to this rule are the following:
 
 1. Submission is permitted for papers presented or to be presented at conferences or workshops that do not have published proceedings, or with only abstracts published.
 2. It is acceptable to submit to RSS work that has been made available as a technical report (or similar, e.g., in arXiv) without citing it.
-3. It is acceptable to submit to RSS work that has been made available as a technical report (or similar, e.g. in arXiv) without citing it.
 
-None of the above should be construed as overriding the requirements of other publishing venues. In addition, keep in mind that author anonymity to RSS reviewers might be compromised for authors availing themselves of exceptions 2 and 3.
+
+None of the above should be construed as overriding the requirements of other publishing venues. In addition, keep in mind that author anonymity to RSS reviewers might be compromised for authors availing themselves of exceptions 1 and 2.
 
 ## Plagiarism in Papers and Demos
 
