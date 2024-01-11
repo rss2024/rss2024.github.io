@@ -33,10 +33,10 @@ github:
 google_analytics: G-RCJTV6PJZC
 
 collections:
-    #attending:
-       #output: true
-       #permalink: /attending/:path/
-       #priority: 1
+    attending:
+       output: true
+       permalink: /attending/:path/
+       priority: 1
     program:
        output: true
        permalink: /program/:path/

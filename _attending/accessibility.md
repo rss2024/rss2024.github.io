@@ -4,11 +4,106 @@ title: Accessibility
 description: Accessibility information.
 priority: 4
 invisible: false
-published: false
+published: true
 ---
 
-At RSS 2023, we will do our best to create an accessible environment for all attendees. In this page, you will find information about hearing accessibility and mobility accessibility at the conference venue. Please contact our [accessibility committee](mailto:hyemin.ahn@unist.ac.kr) if the accessibility features as described here are not enough to allow you to attend. 
+## Accessibility FAQ
+For questions about accessibility, please contact the accessibility chairs (Yasemin Vardar, Elaine Short, and Tapomayukh Bhattacharjee) at rss24accessibility@gmail.com.
 
+The conference will be held at the Aula Conference Centre on the TU Delft campus.
+
+## Requesting accommodations:
+Accommodations can be requested by contacting the accessibility chairs at [rss24accessibility@gmail.com](rss24accessibility@gmail.com).  We are committed to making RSS a welcoming conference for researchers with disabilities and will do our best to honor requests, but please submit requests by the early registration deadline for the best chance of receiving your preferred accommodation.
+
+
+## Conference Venue
+Venue Name: Aula Conference Centre
+Venue Phone: T: +31(0)15 2788022
+Venue Email: Aula-CREFM-balie@tudelft.nl  
+Venue Contact: C.M. (Chandni) Kowlesar-Sagoeni (event-producer)
+Venue map with some accessibility information:   [Home - TU Delft Campus Map](https://map.tudelftcampus.nl/poi/aula-conference-centre/)
+TU Delft accessibility information (student-focused, but may have useful information about the campus): [TU Delft Disability Accommodations](https://www.tudelft.nl/en/student/counselling/studying-with-a-disability/characteristics-of-disabilities)
+
+## Getting around Delft
+Public transit is moderately accessible for wheelchair users.  Most buses should be accessible for wheelchair users but mobility scooters are not permitted.  Some but not all tram lines are accessible.  However, Delft is a small city (max 5km/3miles from corner to corner), extremely bike-friendly, and most street crossings have curb cuts, so mobility device users may find it easiest to navigate the streets directly rather than using transit.
+
+
+- Rail transit accessibility: [https://www.htm.nl/en/travel/accessibility](https://www.htm.nl/en/travel/accessibility)
+- Bus accessibility (Dutch only): [https://www.ebs-ov.nl/haaglanden/klantenservice/voorwaarden-en-regels/regels-voor-rolstoelen-rollaters-kinderwagens-fietsen](https://www.ebs-ov.nl/haaglanden/klantenservice/voorwaarden-en-regels/regels-voor-rolstoelen-rollaters-kinderwagens-fietsen)
+- Tram Accessibility: [https://www.htm.nl/en/about-us/our-transport/gtl-red/beige-trams](https://www.htm.nl/en/about-us/our-transport/gtl-red/beige-trams)
+- Delft Tourism Wheelchair Accessibility Information: [https://www.delftconventionbureau.com/practically/facilities](https://www.delftconventionbureau.com/practically/facilities)
+
+## Food
+During the conference days (Tuesday, Wednesday, and Thursday) there will be lunch for everybody in the Aula. A seated dinner will be held on Wednesday evening in the city center at a wheelchair-friendly venue. There will be a variety of food available for vegetarians, and we will not serve pork. During registration, you will be able to specify: Vegan, Gluten allergy, Lactose intolerance, Nut allergy, Other.  Please note that our caterers are not equipped to provide halal or kosher food.
+
+
+## Assistance at the Conference
+Assistants or companions for attendees with disabilities need to register for the conference, but are eligible for a reduced companion rate. Requests for companion registration should be submitted to [rss24accessibility@gmail.com](rss24accessibility@gmail.com) before the early registration date. 
+
+The hostess or front desk staff in Central Hall will gladly assist you in finding the right room. Visitors who need special assistance can request help from a student volunteer.  Some student volunteers will be available at the conference, but requests for dedicated assistance from a student volunteer should be submitted to the accessibility chairs before the early registration deadline.
+
+## Arrangements for Presenters with Accessibility Needs
+The session presentations will take place on the stage at the Auditorium. The stage is raised with stairs. The presenters will stand at a podium. If you are presenting and the stairs present a problem, please contact the accessibility chairs as soon as possible so we can explore alternative arrangements.
+
+## Induction Loops
+The plenary sessions will be in the Auditorium. In Section D of the Auditorium, a hearing loop has been installed. A listener with a hearing aid or cochlear implant can use the hearing loop by setting the device to the ‘T’ position.
+
+## Microphones
+Microphones will be used for both speakers and for the question-and-answer sessions.
+
+## Map and Description of Conference Space:
+
+The nearby facilities, such as restaurants, cafeterias, parks, and bus stops can be found at this link: [Parkingspot supplier Aula Main Entrance (1) - TU Delft Campus Map](https://map.tudelftcampus.nl/poi/parkingspot-supplier-aula-main-entrance-1/)
+
+The Aula has facilities for people with disabilities. In front of the Aula, there are three disabled parking spaces where cars can be parked in the designated spots upon displaying a ‘disabled parking card’ on the windshield. There are also disabled parking spaces on the side of the Aula (Christiaan Huygensweg).
+ 
+All floors are accessible by elevator, and all rooms are accessible for people with disabilities. The hostess or front desk staff in Central Hall will gladly assist you in finding the right room. There are two disabled toilets in the Aula: one on the ground floor and another on the 2nd floor. In Section D of the Auditorium, a hearing loop has been installed. A listener with a hearing aid or cochlear implant can use the hearing loop by setting the device to the ‘T’ position.
+
+Across the road next to the Aula, there is a small park where people can relax and guide dogs can be taken for a walk. 
+
+There are multiple bathrooms on each floor and two disabled toilets in the Aula: one on the ground floor and another on the 2nd floor. 
+
+
+## Accessibility Information for Conference Dinner
+The conference dinner will take place in the Old Church, which is at the heart of the Delft city center. It is easily accessible from Aula by foot or wheelchair in approximately 30 minutes (route shown in the image to the right).   The Old Church is listed as a wheelchair accessible venue.
+
+It is also possible to reach there by Bus 69 or 455 in front of Aula. The bus route ends at the Delft Central Station, and it takes 11 minutes of walking from the station to Old Church. You can also take the [Delft Hop on Hop Off](https://www.delft.com/planning-your-trip/travel-around) shuttle from the station to reach. 
+
+You can book a wheelchair-accessible taxi at: [https://sneleentaxi.nl/en/care-transport](https://sneleentaxi.nl/en/care-transport)
+
+It is not possible to enter the city center by car. You can find the parking information [here](https://www.oudeennieuwekerkdelft.nl/bezoekersinformatie/bereikbaarheid-en-parkeren).
+
+Other Spaces:
+We are currently working on exploring options for a smoking area, breastfeeding area, and quiet area. If you need one of these spaces, please get in touch with the accessibility chairs.
+
+For Emergencies
+If you need urgent (medical) help or are faced with a life-threatening situation, then you can always call the national emergency number 112. If you need help, but it is not an emergency, then call 0900-8844 (the police switchboard). 
+
+
+The nearest hospital is Reinier de Graaf Gasthuis: [https://reinierdegraaf.nl/](https://reinierdegraaf.nl/)
+
+## Transportation to Delft
+
+### Amsterdam Schiphol – Delft
+
+Getting to Delft from the international Schiphol Airport is easy by public transport or with the special taxi service ‘Schiphol Travel Taxi’. There is an excellent train service between Schiphol and Delft, with 6 trains per hour and a maximum journey time of 45 minutes. 
+
+To reach Delft from Amsterdam Schiphol Airport, please check: [www.ns.nl](www.ns.nl)
+
+### Rotterdam The Hague Airport – Delft
+
+Rotterdam The Hague Airport is an attractive airport situated only 5 km outside of Delft. Rotterdam The Hague Airport is ideal for European destinations, with very short waiting times for check-in in, boarding, and luggage collection. For more information go to: www.rotterdamthehagueairport.nl. 
+
+To reach Delft from Rotterdam The Hague Airport via public transport please go to: [www.9292.nl/en](www.9292.nl/en)
+​
+
+
+
+
+
+
+
+<!-- 
 ## Hearing Accessibility
 ### Live Captioning
 To ensure our content is accessible to everyone, we will provide on-screen live captioning to offline participants, and YouTube captioning to online participants. Links and Contents that will provide live captioning are as below.
@@ -66,3 +161,4 @@ We introduce two ways to get to the conference venue, EXCO in Daegu, starting fr
 
 ## Additional Assistance
 If you have any additional questions or specific accessibility needs, please contact our [accessibility committee](mailto:hyemin.ahn@unist.ac.kr). Please note that some services can require advance notice to ensure availability. We recommend you to reach out in advance to allow us sufficient time to make the necessary arrangements. 
+-->
