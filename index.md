@@ -74,12 +74,12 @@ tutorials. This year, as always, we solicit your best work.
         <td>Submission Website Opens</td>
       </tr>
       <tr>
-        <td>February 2rd, 2024</td>
+        <td>February 2, 2024</td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Paper and Demo Submission Deadline</td>
       </tr>
       <tr>
-        <td>February 8th, 2024</td>
+        <td>February 8, 2024</td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Supplementary Material Deadline</td>
       </tr>
@@ -103,7 +103,7 @@ tutorials. This year, as always, we solicit your best work.
         <td>Camera-ready Submission</td>
       </tr>
       <tr>
-        <td colspan="2">July 15th &ndash; July 19th, 2024</td>
+        <td colspan="2">July 15 &ndash; July 19, 2024</td>
         <td>RSS 2024, Delft, Netherlands</td>
       </tr>
     </tbody>

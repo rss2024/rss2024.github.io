@@ -131,8 +131,8 @@ published: true
             <table style="margin-left:auto;margin-right:auto;">
             <tr>
                   <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href="https://robotics.umd.edu/clark/faculty/1674/Nare-Karapetyan">Nare Karapetyan</a><br>
-                        <i>University of Maryland, USA</i><br>
+                        <a target="_blank" href="https://directory.whoi.edu/profile/nare-karapetyan/">Nare Karapetyan</a><br>
+                        <i>Woods Hole Oceanographic Institution, USA</i><br>
                   </td>
                   <td style="width:45px;"></td>
                   <td style="width:200px;vertical-align:top;">
