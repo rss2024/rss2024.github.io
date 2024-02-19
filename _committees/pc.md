@@ -201,5 +201,39 @@ description: Reviewing team.
     <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">Cambridge University, USA</i>
 </td>
 <td style="width:45px;"></td>
+<td style="width:200px;vertical-align:top;">
+    <a style="display: block;" >Michael Burke</a>
+    <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">Monash University, Australia</i>
+</td>
+</tr>
+<tr>
+<td style="width:200px;vertical-align:top;">
+    <a style="display: block;" >Yu Xiang</a>
+    <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">UT Dallas, USA</i>
+</td>
+<td style="width:45px;"></td>
+<td style="width:200px;vertical-align:top;">
+    <a style="display: block;" >Nakul Gopalan</a>
+    <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">Arizona State University, USA</i>
+</td>
+</tr>
+<tr>
+<td style="width:200px;vertical-align:top;">
+    <a style="display: block;" >Hao Zhang</a>
+    <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">Arizona State University, USA</i>
+</td>
+<td style="width:45px;"></td>
+<td style="width:200px;vertical-align:top;">
+    <a style="display: block;" >Dimity Miller</a>
+    <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">Queensland University of Technology, Australia</i>
+</td>
+</tr>
+<tr>
+<td style="width:200px;vertical-align:top;">
+    <a style="display: block;" >Rahul Shome</a>
+    <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">Australian National University, Australia</i>
+</td>
+<td style="width:45px;"></td>
+
 </tr>
 
