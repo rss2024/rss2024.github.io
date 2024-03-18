@@ -1,89 +1,63 @@
 ---
 layout: page
 title: Travel
-description: How to get to NYC
+description: How to get to RSS
 Priority: 3
-invisible: true
-published: false
+invisible: false
+published: true
 ---
 
-{% comment %}
 
 
-# <span style="color:red">**Update Concerning COVID-19** </span>
+# Travel information
 
-<span style="color:red">The RSS 2020 organizing committee and the RSS foundation boards hope you are safe and well. Due to the pandemic and the uncertainty regarding travel to the US, RSS 2020 will take place **VIRTUALLY** during the original dates (July 12-16). </span>
- 
-<span style="color:red">The paper review process is on track and we particularly want to thank our reviewers and area chairs for their great service despite the difficult situation. We are planning to send out paper notifications by the beginning of May.</span>
+## Visa and Invitation Letter
 
- 
-<span style="color:red">We expect to share details regarding RSS 2020 by the end of May. The official conference proceedings will be available online, as usual, and we are exploring ways to create an exciting and engaging online program. While we cannot meet physically in one place, let us stay connected as a community and support the open scientific discourse that is the hallmark of RSS. </span>
+Check [here](https://www.netherlandsworldwide.nl/visa-the-netherlands/visa-required) to check if you are required to apply for a Visa to the Netherlands. If you are required to apply for a short stay Schengen visa for the Netherlands, you will find all the instructions [here](https://www.netherlandsworldwide.nl/visa-the-netherlands/schengen-visa).
 
-{% endcomment %}
+RSS attendees who are required to apply for a visa will need to fill [this form](https://docs.google.com/forms/d/1YHgmYsHUIlVckCg3OFabpGBbPzEAwcpd8yvAO_fW8GU/viewform?ts=65c98f20&exids=71471483,71471477&edit_requested=true) after they register at RSS and have received an RSS registration number. Organizers will reach out to you with a signed invitation letter, which you can use to support your Netherlands visa application.
 
+## Travel
 
-{% comment %}
+The closest large international airport to Delft is Schiphol Amsterdam Airport (AMS). Some European cities also have flights to Rotterdam The Hague Airport (RTM).
 
-# Flying
+RSS2024 provides attendees up to 15% discount on a wide range of public fares on all AIR FRANCE, KLM and their code-shared flights worldwide.
 
-## Portland International Airport (PDX)
+- Event: Robotics Science and Systems 2024
+- ID Code: 41154AF
+- Travel Valid Period: July 7, 2024 to July 26, 2024
+- Event Location: Amsterdam - Netherlands
 
-PDX is the nearest International airport located 1.5 hours North of Corvallis, OR.
+Please visit the event website or access directly through the [following link](https://globalmeetings.airfranceklm.com/Search/promoDefault.aspx?vendor=AFR&promocode=41154AF)
 
-**Shuttle Service: Groome Transportation** service is available from the Portland International Airport (PDX) and will take you directly to the OSU campus. Reservations are required and can be made online at [portlandairportshuttle.com](https://groometransportation.com/portland-airport/) or by phone at (877) 693-3785.
+## Directions to the venue
 
-**Rental Cars**: Go [here](https://www.flypdx.com/RentalCars) to find out what rental cars are available at the Portland International Airport. 
+### Amsterdam Schiphol – Delft
 
-## Eugene Airport (EUG)
-
-EUG is the closest airport located 45 minutes south of Corvallis with convenient connections to Seattle, San Francisco and Denver.
-
-**Shuttle Service: Hub Airport Shuttle** offers shuttle service on-demand from the Eugene Regional Airport (EUG) to OSU. Advanced shuttle booking is required. For more information visit [hubairportshuttle.com](https://hubairportshuttle.com/) or call (541) 461-7959.
-
-**Rental Cars:** Go [here](http://www.rentalcars.com/us/airport/us/eug/?affiliateCode=google&cor=us&label=eug-vTY4xOFZ60AnlulkfDr5DgS39093909348&ws=&gclid=Cj0KEQjwyrqgBRDepamt-LWA2oABEiQAV7nwwM9ToIZOVHvUbNFgus3aVlOTQsMg1XsHiIZbM-0pKqIaAtaa8P8HAQ) to find out what rental cars are available at the Eugene Airport.
-	
-
-# Maps & Directions
-
-**Oregon State University is located at 875 SW 26th St, Corvallis, OR 97331.**
-
-The LaSells Stewart Center is centrally located and getting here is a breeze. For driving directions, scroll down or visit [Google Maps](https://www.google.com/maps/place/LaSells+Stewart+Center/@44.5591751,-123.27886,15z/data=!4m5!3m4!1s0x0:0xc581de95d568ff6e!8m2!3d44.5591751!4d-123.27886) to plan your route.
-
-## Parking Information
-
-Between the hours of 7 am and 5 pm, visitor parking is available in the parking lot across from The LaSells Stewart Center and in the parking garage north of the Alumni Center. Visitor parking permits are available at kiosks in the parking areas.  
-
-Evenings after 5 pm, and on weekends, Center patrons may park in visitor lots at no charge.  
-
-For more information about parking, visit the [Transit & Parking Services website](http://transportation.oregonstate.edu/parking/visitors).  
-
-Vehicles without permits parked in permit spaces before 5 pm on weekdays will be ticketed. Bicycle parking is located at the north entrance.  
-
-## Driving Directions
-
-<img src="{{ site.baseurl }}/images/map.png"
-       alt="Driving Map" width = "250" /> 
+Getting to Delft from the international Schiphol Airport is easy by public transport. There is an excellent train service between Schiphol and Delft, with 6 trains per hour and a maximum journey time of 45 minutes. For more information about the train service go to: [www.ns.nl](www.ns.nl)
 
 
-**From I-5**
-
-Take Exit #228 to Corvallis. Head west 10 miles on Hwy 34. Make a left turn onto Hwy 34 bypass. Go right on 26th St., cross Western Blvd., and The LaSells Stewart Center will be on your right.  
-
-**From Hwy 99 Southbound**  
-
-Highway 99W becomes 4th St. Make a right turn on Western Blvd. Take another right turn on 26th St. Travel one block and The LaSells Stewart Center will be on your right.  
-
-**From Hwy 99 Northbound**  
-
-Go over the Marys River Bridge. Make a left turn on Western Blvd. Make a right turn on 26th St. Travel one block and The LaSells Stewart Center will be on your right.  
-
-**From 9th Street Hotels**. 
-
-Drive south on 9th Street, turn right on Harrison, then left on 14th Street. (Note: When 14th crosses Monroe Ave., it becomes 15th.) Turn right on Western Blvd., and right on 26th Street. Travel one block and The LaSells Stewart Center will be on your right.
-
-{% endcomment %}
+You may also travel with the special taxi service ‘Schiphol Travel Taxi’ or other licensed taxi providers.
 
 
+### Rotterdam The Hague Airport – Delft
+
+Rotterdam The Hague Airport is an attractive airport situated only 30 minutes from Delft. Rotterdam The Hague Airport is ideal for European destinations, with very short waiting times for checking in, boarding, and luggage collection. For more information go to: [www.rotterdamthehagueairport.nl.](www.rotterdamthehagueairport.nl) From Rotterdam The Hague Airport to Delft with public transport please go to: [www.9292.nl/en.](www.9292.nl/en) 
 
 
+### Accomodation
 
+We do not provide a list of preferred hotels. There is a variety of accommodation choices available in Delft. Furthermore, the cities of Rotterdam and The Hague are within a reasonable distance of Delft and with very good connections for public transportation.
+RSS 2024 made the conscious decision to partner with Time to momo, the hotel booking site that treats everyone fairly – they offer trustworthy information and a pleasant online experience for you, and fair commissions for hotel owners. Something we fully support.
+
+
+[Book your hotel from 14.07 - 19.07.2024 in Delft and benefit from a 10% discount](https://www.timetomomo.com/en/visit/rss2024/?utm_medium=website&utm_source=organiser&utm_campaign=rss2024)
+
+### About Time to Momo
+
+Time to Momo is the fair alternative to the large hotel booking sites. You won’t be rushed by pop-ups saying ‘there’s only one room left!’, but instead you get a practical city map showing
+hotels with distance to the main venue and hotspots in the city you are going to.
+
+<img style="text-align:center" src="/images/map1.png">
+
+<img style="text-align:center" src="/images/map2.png">
