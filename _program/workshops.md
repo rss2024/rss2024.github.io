@@ -5,76 +5,69 @@ description: Workshop times, venues, and details.
 days: ['Mon', 'Fri']
 priority: 9
 invisible: false
-published: false
+published: true
 ---
 
 
-Workshops will take place across two days of the conference on July 10 and July 14, 2023. Each workshop is organized as a semi-independent event, and has a unique schedule reflecting the planned activities, constraints and preferences of the organizers. Please check the workshop websites for more details on their particular schedules. 
+Workshops will take place across two days of the conference on July 15 and July 19, 2024. Each workshop is organized as a semi-independent event, and has a unique schedule reflecting the planned activities, constraints and preferences of the organizers. Please check the workshop websites for more details on their particular schedules. 
 
-For instructions and directions at the venue, please check out the [venue page]({{ site.baseurl }}/attending/atvenue/). For virtual attendance please find more information [here]({{ site.baseurl }}/attending/virtual/)
-{% for day in page.days %}
+
 <div style="display: block; width: 100%; height: 20px;"></div>
-{% if day == 'Mon' %}
-### Monday, July 10 
-#### (Full or half day)
-{% assign innerdays = "10th, 12-13, tbd" | split: ", " %}
-{% elsif day == 'Fri' %}
-### Friday, July 14 
-#### (Half day)
-{% assign innerdays = "14th, tbd" | split: ", " %}
-{% endif %}
 
-<table class="table table-striped table-workshop" id="{{ day }}ID">
-  <thead>
-    <tr>
-      <th width="7%" align="center">ID</th>
-      <th width="15%" align="center">Location</th>
-      <th width="50%">Title</th>
-      <th width="28%">Organizers</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for innerday in innerdays %}
-    {% for workshop in site.data.workshops %}
-    {% if workshop.date contains innerday %}
+### Monday, July 15 
+#### (Full-day workshops)
+{% assign innerdays = "15th, 12-13, tbd" | split: ", " %}
 
-    <tr>
-      <td><span style="font-weight:bold; color: #3a3946;"> {{ workshop.external_id }} </span></td>
-      <td>{{ workshop.location }} &nbsp; <span style="font-size:smaller; line-height:0.9; display:block;">{{ workshop.note }}</span> </td>
-      <td>
-        <a href="{{ workshop.url }}">
-          {{ workshop.title }}
-        </a>
-      </td>
-      <td style="font-size:smaller;">
-        {{ workshop.organizers | replace: ',', '<br/>' | truncatewords: 7, "&nbsp;<button type='button' class='collapsible' style='border:none;background:none;font-size:smaller;color:#222299;'>...more&gt;</button>"}}
-      <div class="content" style="display:none; padding-top:20px;">
-        {{ workshop.organizers | replace: ',', '<br/>'}}
-      </div>
-      </td>     
-    </tr>
-    {% elsif workshop.date contains "?" and innerday contains 'tbd' %}
-    <tr>
-      <td>{{ workshop.external_id }}</td>
-      <td><span style="color:#aaa;font-size:smaller;text-align:center;">TBD</span></td>
-      <td>
-        <a href="{{ workshop.url }}">
-          {{ workshop.title }}
-        </a>
-      </td>
-      <td style="font-size:smaller;">
-        {{ workshop.organizers | replace: ',', '<br/>' | truncatewords: 7, "&nbsp;<button type='button' class='collapsible' style='border:none;background:none;font-size:smaller;color:#222299;'>...more&gt;</button>"}}
-      <div class="content" style="display:none; padding-top:20px;">
-        {{ workshop.organizers | replace: ',', '<br/>'}}
-      </div>
-      </td>     
-    </tr>
-    {% endif %}
-    {% endfor %}
-    {% endfor %}
-  </tbody>
+<table class="table table-striped table-workshop">
+    <thead>
+        <tr>
+            <th width="7%" align="center">ID</th>
+            <th width="50%">Title</th>
+            <th width="28%">Website</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for workshop in site.data.ws %}
+        <tr>
+            <td><span style="font-weight:bold; color: #3a3946;"> {{ workshop.id }} </span></td>
+            <td>{{ workshop.title }}</td>
+            <td>
+                <a href="{{ workshop.website }}">
+                    {{ workshop.website }}
+                </a>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
 </table>
-{% endfor %}
+
+### Friday, July 19 
+#### (Half-day workshops)
+{% assign innerdays = "19th, tbd" | split: ", " %}
+
+<table class="table table-striped table-workshop">
+    <thead>
+        <tr>
+            <th width="7%" align="center">ID</th>
+            <th width="50%">Title</th>
+            <th width="28%">Website</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for workshop in site.data.ws2 %}
+        <tr>
+            <td><span style="font-weight:bold; color: #3a3946;"> {{ workshop.id }} </span></td>
+            <td>{{ workshop.title }}</td>
+            <td>
+                <a href="{{ workshop.website }}">
+                    {{ workshop.website }}
+                </a>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
 
 <span style="color:white; font-size:50px;">&nbsp;</span><br>
 <span style="color:white; font-size:50px;">&nbsp;</span><br>

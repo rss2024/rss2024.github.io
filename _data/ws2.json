@@ -1,0 +1,67 @@
+[
+  {
+    "id": 16,
+    "title": "Unsolved Problems in Social Robot Navigation",
+    "website": "https://unsolvedsocialnav.org"
+  },
+  {
+    "id": 17,
+    "title": "Robots that help and ask for help",
+    "website": "https://sites.google.com/unisi.it/robots-that-ask-for-help"
+  },
+  {
+    "id": 18,
+    "title": "Tutorial: Supervised Policy Learning for Real Robots",
+    "website": "N/A"
+  },
+  {
+    "id": 19,
+    "title": "Geometric and Algebraic Structure in Robot Learning",
+    "website": "https://sites.google.com/view/gas-rl-rss2024"
+  },
+  {
+    "id": 20,
+    "title": "Social Intelligence in Humans and Robots",
+    "website": "https://social-intelligence-human-ai.github.io/proposal.html"
+  },
+  {
+    "id": 21,
+    "title": "Aerial Swarm Tools and Applications",
+    "website": "https://imrclab.github.io/workshop-aerial-swarms-rss2024/"
+  },
+  {
+    "id": 22,
+    "title": "GROUND: advancing GROup UNderstanding and robots' aDaptive behavior",
+    "website": "https://ground-hri.github.io/workshop/"
+  },
+  {
+    "id": 23,
+    "title": "Lifelong Robot Learning: Generalization, Adaptation, and Deployment with Large Models",
+    "website": "https://sites.google.com/view/lifelong-robot-learning"
+  },
+  {
+    "id": 24,
+    "title": "Noosphere: Tactile Sensing for General Purpose Robots Learning",
+    "website": "https://noosphereworkshop.github.io"
+  },
+  {
+    "id": 25,
+    "title": "Navigation & Mobile Manipulation in Challenging and Cluttered Natural Environments",
+    "website": "https://nature-bots.github.io"
+  },
+  {
+    "id": 26,
+    "title": "Robotic Tasks and How to Specify Them? — Task Specification for General-Purpose Intelligent Robots",
+    "website": "https://sites.google.com/view/rss-taskspec"
+  },
+  {
+    "id": 27,
+    "title": "Towards Safe Autonomy: Emerging Requirements, Definitions, and Methods",
+    "website": "https://sites.google.com/view/rss2024-safe-autonomy/home"
+  },
+  {
+    "id": 28,
+    "title": "Semantic Reasoning and Goal Understanding in Robotics (SemRob)",
+    "website": "https://semrob.github.io"
+  }
+]

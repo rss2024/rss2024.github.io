@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "title": "2nd Workshop on Dexterous Manipulation:Design, Perception and Control",
+    "website": "https://dex-manipulation.github.io/rss2024"
+  },
+  {
+    "id": 2,
+    "title": "Safety and Normative Behaviors in Human-Robot Interaction",
+    "website": "https://sites.google.com/view/safe-hri/4"
+  },
+  {
+    "id": 3,
+    "title": "Structural Priors as Inductive Biases for Learning Robot Dynamics",
+    "website": "https://sites.google.com/alora.tech/priors4robots24"
+  },
+  {
+    "id": 4,
+    "title": "Mechanisms for Mapping Human Input to Robots From Robot Learning to Shared Control/Autonomy",
+    "website": "https://mechanisms-hri.github.io"
+  },
+  {
+    "id": 5,
+    "title": "Frontiers of optimization for robotics",
+    "website": "https://sites.google.com/robotics.utias.utoronto.ca/frontiers-optimization-rss24/home"
+  },
+  {
+    "id": 6,
+    "title": "Robot Execution Failures and Failure Management Strategies",
+    "website": "https://robot-failures.github.io/rss2024/"
+  },
+  {
+    "id": 7,
+    "title": "WEV: Workshop on Embodied Voices",
+    "website": "https://rosielab.github.io/wev/"
+  },
+  {
+    "id": 8,
+    "title": "AVAS: Autonomous Vehicles Across Scales",
+    "website": "https://vindulamj.github.io/rss24-avas-workshop/"
+  },
+  {
+    "id": 9,
+    "title": "Data Generation for Robotics",
+    "website": "https://sites.google.com/view/data-generation-for-robotics/home"
+  },
+  {
+    "id": 10,
+    "title": "EARL: Embodiment-Aware Robot Learning (EARL)",
+    "website": "https://sites.google.com/view/wearl"
+  },
+  {
+    "id": 11,
+    "title": "GenAI-HRI: Generative modeling meets human-robot interaction",
+    "website": "https://sites.google.com/view/gai-hri/home"
+  },
+  {
+    "id": 12,
+    "title": "Koopman Operators in Robotics",
+    "website": "https://sites.google.com/yale.edu/rss-2024-koopman-operators/home"
+  },
+  {
+    "id": 13,
+    "title": "Learning for Assistive Robotics",
+    "website": "https://sites.google.com/view/rss2024-assistive-robotics"
+  },
+  {
+    "id": 14,
+    "title": "Open-Set Robot Perception in the Wild",
+    "website": "https://open-set-robotics.github.io"
+  },
+  {
+    "id": 15,
+    "title": "Semantics for Robotics: From Environment Understanding and Reasoning to Safe Interaction",
+    "website": "https://www.dynsyslab.org/rss24-workshop-on-semantics-for-robotics/"
+  }
+]
