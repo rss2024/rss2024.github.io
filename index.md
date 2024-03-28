@@ -28,6 +28,7 @@ $(document).ready(function() {
 ### News and Updates
 
 *  Call for Papers and Demos is out [here]({{ site.baseurl }}/information/cfp).
+*  Accepted workshops have been posted [here]({{ site.baseurl }}/progran/workshops).
 
 
 {% comment %}
@@ -35,6 +36,7 @@ $(document).ready(function() {
  Reviews released and rebuttal invitations between April 3rd &ndash; April 8th, 2023 (<a href="https://time.is/Anywhere_on_Earth">AoE</a>).
 </div>
 {% endcomment %}
+
 
 
 
