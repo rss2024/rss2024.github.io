@@ -15,7 +15,7 @@ published: true
 
 Check [here](https://www.netherlandsworldwide.nl/visa-the-netherlands/visa-required) to check if you are required to apply for a Visa to the Netherlands. If you are required to apply for a short stay Schengen visa for the Netherlands, you will find all the instructions [here](https://www.netherlandsworldwide.nl/visa-the-netherlands/schengen-visa).
 
-RSS attendees who are required to apply for a visa will need to fill [this form](https://docs.google.com/forms/d/1YHgmYsHUIlVckCg3OFabpGBbPzEAwcpd8yvAO_fW8GU/viewform?ts=65c98f20&exids=71471483,71471477&edit_requested=true) after they register at RSS and have received an RSS registration number. Organizers will reach out to you with a signed invitation letter, which you can use to support your Netherlands visa application.
+RSS attendees who are required to apply for a visa will need to fill [this form](https://docs.google.com/forms/d/1YHgmYsHUIlVckCg3OFabpGBbPzEAwcpd8yvAO_fW8GU/viewform?ts=65c98f20&exids=71471483,71471477&edit_requested=true) after they register [register](https://www.aanmelder.nl/rss2024/home) at RSS and have received an RSS registration number. Organizers will reach out to you with a signed invitation letter, which you can use to support your Netherlands visa application.
 
 ## Travel
 
