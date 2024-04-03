@@ -128,6 +128,16 @@ tutorials. This year, as always, we solicit your best work.
 </table>
 
 
+<h3 id="sponsors">Sponsors</h3>
+
+<div class="sponsor-row1 flex-container">
+  <img alt="Lely" src="/2024/images/sponsors/LELY2024.jpg" />
+  <img alt="Delft Municipality" src="/2024/images/sponsors/Gemeente2024.jpg" />
+  <img alt="RoboHouse" src="/2024/images/sponsors/RoboHouse2024.svg" />
+</div>
+
+
+
 The organizers welcome you to the vibrant venue of RSS 2024 
 
 
