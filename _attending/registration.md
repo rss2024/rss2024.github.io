@@ -30,39 +30,39 @@ The registration portal is hosted on PheedLoop at this link: **[site.pheedloop.c
     <tbody>
     <tr>
         <td>Students</td>
-        <td>$300</td>
-        <td>$450</td>
-        <td>$500</td>
+        <td>€300</td>
+        <td>€450</td>
+        <td>€500</td>
     </tr>
     <tr>
         <td>Academic<br/>(faculty, postdoc, sponsors)</td>
-        <td>$600</td>
-        <td>$900</td>
-        <td>$1000</td>
+        <td>€600</td>
+        <td>€900</td>
+        <td>€1000</td>
     </tr>
     <tr>
         <td>Industry</td>
-        <td>$750</td>
-        <td>$1125</td>
-        <td>$1250</td>
+        <td>€750</td>
+        <td>€1125</td>
+        <td>€1250</td>
     </tr>
     <tr>
         <td>Workshop only</td>
-        <td>$120</td>
-        <td>$180</td>
-        <td>$200</td>
+        <td>€120</td>
+        <td>€180</td>
+        <td>€200</td>
     </tr>
     <tr>
         <td>Virtual</td>
-        <td>$30</td>
-        <td>$45</td>
-        <td>$50</td>
+        <td>€30</td>
+        <td>€45</td>
+        <td>€50</td>
     </tr>
     <tr>
         <td>Accompanying person banquet</td>
-        <td>$140</td>
-        <td>$140</td>
-        <td>$140</td>
+        <td>€140</td>
+        <td>€140</td>
+        <td>€140</td>
     </tr>
 
 
