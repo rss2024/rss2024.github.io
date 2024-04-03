@@ -7,11 +7,13 @@ invisible: false
 published: tru
 ---
 
-<!--
-<div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">
- Click <b><a href="https://site.pheedloop.com/event/RSS2023/home/" target="_blank">here</a> to register.</b>
-</div>  -->
 
+<div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">
+ Click <b><a href="https://www.aanmelder.nl/rss2024/home" target="_blank">here</a> to register.</b>
+</div>  
+
+
+<div>&nbsp;</div>
 <!--
 The registration portal is hosted on PheedLoop at this link: **[site.pheedloop.com/event/RSS2023](https://site.pheedloop.com/event/RSS2023/home/)**-->
 
