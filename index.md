@@ -131,9 +131,13 @@ tutorials. This year, as always, we solicit your best work.
 <h3 id="sponsors">Sponsors</h3>
 
 <div class="sponsor-row1 flex-container">
-  <img alt="Lely" src="/2024/images/sponsors/LELY2024.jpg" />
-  <img alt="Delft Municipality" src="/2024/images/sponsors/Gemeente2024.jpg" />
-  <img alt="RoboHouse" src="/2024/images/sponsors/RoboHouse2024.svg" />
+  <img alt="Lely" src="/2024/images/sponsors/LELY2024.jpg" style="width: 100px;" />
+  <img alt="Delft Municipality" src="/2024/images/sponsors/Gemeente2024.jpg" style="width: 250px; " />
+  <img alt="RoboHouse" src="/2024/images/sponsors/RoboHouse2024.svg" style="width: 100px; " />
+</div>
+
+<div class="sponsor-row1 flex-container">
+  <img alt="RoboHouse" src="/2024/images/sponsors/TUDRI_logo.svg" style="width: 400px; " />
 </div>
 
 
