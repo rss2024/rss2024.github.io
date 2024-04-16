@@ -30,6 +30,20 @@ RSS2024 provides attendees up to 15% discount on a wide range of public fares on
 
 Please visit the event website or access directly through the [following link](https://globalmeetings.airfranceklm.com/Search/promoDefault.aspx?vendor=AFR&promocode=41154AF)
 
+It might happen that this link is not working. Please follow the next 4 easy steps to claim a 10% flight discount:
+
+✓ Go to the dedicated website [WWW.AIRFRANCE.NL](https://www.airfrance.nl/) or [https://www.klm.nl/en](https://www.klm.nl/en), as the discounts are only available via these websites.
+
+✓ During the booking process, when asked if “travelling for business” select YES and use MICE as “contract name”.
+
+✓ After your personal details click “Proceed to payment details” and enter **GM41154AF** in the “Your discount code” field.
+
+✓ Click on 'Send discount code' and if all conditions are met* the discount will be applied on the airfare.
+
+⃰ Please scan the QR code to read the general conditions which are applicable to the exclusive usage of an Internet Discount Code (IDC) for this event
+
+
+
 ## Directions to the venue
 
 ### Amsterdam Schiphol – Delft
