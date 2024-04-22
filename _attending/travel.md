@@ -42,6 +42,9 @@ It might happen that this link is not working. Please follow the next 4 easy ste
 
 ⃰ Please scan the QR code to read the general conditions which are applicable to the exclusive usage of an Internet Discount Code (IDC) for this event
 
+<div style="display: flex; justify-content: center;">
+    <img alt="Lely" src="/2024/images/qr.png" style="width: 100px;" />
+</div>
 
 
 ## Directions to the venue
