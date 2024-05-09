@@ -28,7 +28,7 @@ $(document).ready(function() {
 ### News and Updates
 
 *  Call for Papers and Demos is out [here]({{ site.baseurl }}/information/cfp).
-*  Accepted workshops have been posted [here]({{ site.baseurl }}/progran/workshops).
+*  Accepted workshops have been posted [here]({{ site.baseurl }}/program/workshops).
 *  Registration portal is open [here](https://www.aanmelder.nl/rss2024/home)
 
 

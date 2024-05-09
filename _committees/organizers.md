@@ -142,10 +142,6 @@ published: true
             </tr>
             </table>
       <br>
-	<b>Website Chair</b><br>
-            <a target="_blank" href="https://enriquecoronadozu.github.io/"> Enrique Coronado </a><br>
-            <i>AIST, Japan</i><br>
-      <br>
 
       
 	<b>Website Chair</b><br>
