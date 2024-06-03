@@ -13,7 +13,7 @@ published: true
     <img src="{{site.baseurl}}/images/ec_spotlight_2.jpg"/>
   </div>
   <div class="talk-speaker">
-    <h3>Harold Soh</h3>
+    <h3>Stefan Leutenegger</h3>
     <h4>Assistant Professor</h4>
     <h4>School of Computation, Information and Technology </h4>
     <h4>Technical University of Munich (TUM) </h4>
