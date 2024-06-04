@@ -53,6 +53,28 @@ published: true
            
        
       <br>
+
+       <br>
+   
+         <b>Presentation Chairs</b><br>
+                     <table style="margin-left:auto;margin-right:auto;">
+            <tr>
+                  <td style="width:200px;vertical-align:top;">
+                       <a target="_blank" href="https://www.tudelft.nl/en/staff/g.chen-5/">   Clarence Chen </a><br>
+                        <i>TU Delft, Netherlands</i><br>
+                  </td>
+                  <td style="width:45px;"></td>
+                  <td style="width:200px;vertical-align:top;">
+                           <a target="_blank" href="https://www.monash.edu/engineering/pamelacarrenomedrano">  Pamela Carreno </a><br>
+            <i>Monash University, Australia</i><br>
+                  </td>
+            </tr>
+            </table>
+           
+       
+      <br>
+
+
       <b>Local Arrangements Chairs</b><br>
             <table style="margin-left:auto;margin-right:auto;">
             <tr>
@@ -145,6 +167,11 @@ published: true
 
       
 	<b>Website Chair</b><br>
+            <a target="_blank" href="https://enriquecoronadozu.github.io/"> Enrique Coronado </a><br>
+            <i>AIST, Japan</i><br>
+      <br>
+
+      <b>Publications Chair</b><br>
             <a target="_blank" href="https://enriquecoronadozu.github.io/"> Enrique Coronado </a><br>
             <i>AIST, Japan</i><br>
       <br>

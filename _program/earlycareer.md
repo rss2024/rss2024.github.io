@@ -20,7 +20,7 @@ published: true
   </div>
 </div>
 
-## Spatial Perception for Real-World Mobile Robots and Drones
+## Spatial Perception for Real-World Mobile Robots including Drones
 {: class="talk-title"}
 
 **Abstract:** To power the next generation mobile robots and drones, the field of spatial perception has made much progress from robust multi-sensor SLAM to dense, semantic, and object-level maps, with the aim of understanding open-ended environments as a basis for mobile robot navigation and environment interaction. I will show recent progress in reliable and real-time state estimation and 3D scene understanding using vision, LiDAR, IMUs, and more. Scenes to be reconstructed may contain dynamic objects and even people, whose poses, postures, and motions we can estimate in a tightly-coupled manner. In our works, we fully embrace the power of machine learning-based approaches, but typically integrated in modular, complex robotic systems that may include model-based methods as well. Our approaches are demonstrated as crucial enablers of a range of robot applications, from mobile manipulation on construction sites to drones exploring obstructed indoor spaces or flying through the forest.

@@ -49,6 +49,8 @@ It might happen that this link is not working. Please follow the next 4 easy ste
 
 ## Directions to the venue
 
+The RSS2024 conference will primarily take place at the Delft University of Technology Auditorium Conference Center (TU Delft Aula): [https://maps.app.goo.gl/rxsePbXK3QFfhCpu5](https://maps.app.goo.gl/rxsePbXK3QFfhCpu5)
+
 ### Amsterdam Schiphol – Delft
 
 Getting to Delft from the international Schiphol Airport is easy by public transport. There is an excellent train service between Schiphol and Delft, with 6 trains per hour and a maximum journey time of 45 minutes. For more information about the train service go to: [www.ns.nl](www.ns.nl)
@@ -64,17 +66,11 @@ Rotterdam The Hague Airport is an attractive airport situated only 30 minutes fr
 
 ### Accomodation
 
-We do not provide a list of preferred hotels. There is a variety of accommodation choices available in Delft. Furthermore, the cities of Rotterdam and The Hague are within a reasonable distance of Delft and with very good connections for public transportation.
-RSS 2024 made the conscious decision to partner with Time to momo, the hotel booking site that treats everyone fairly – they offer trustworthy information and a pleasant online experience for you, and fair commissions for hotel owners. Something we fully support.
+We do not provide a list of preferred hotels. There is a variety of accommodation choices available in Delft, within walking distance of the conference venue. We recommend you to book early since availability is limited! Furthermore, the cities of Rotterdam and The Hague are within a reasonable distance of Delft and with very good connections for public transportation.
 
 
-[Book your hotel from 14.07 - 19.07.2024 in Delft and benefit from a 10% discount](https://www.timetomomo.com/en/visit/rss2024/?utm_medium=website&utm_source=organiser&utm_campaign=rss2024)
+For bookings, you may check typical search engines such as [Booking.com](https://Booking.com), [Airbnb.com](https://Airbnb.com),  or [Time to Momo](https://www.timetomomo.com/en/visit/rss2024/?utm_medium=website&utm_source=organiser&utm_campaign=rss2024)
 
-### About Time to Momo
-
-Time to Momo is the fair alternative to the large hotel booking sites. You won’t be rushed by pop-ups saying ‘there’s only one room left!’, but instead you get a practical city map showing
-hotels with distance to the main venue and hotspots in the city you are going to.
 
 <img style="text-align:center" src="/images/map1.png">
 
-<img style="text-align:center" src="/images/map2.png">
