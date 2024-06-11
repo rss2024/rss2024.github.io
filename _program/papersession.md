@@ -142,7 +142,6 @@ published: true
     RoboCasa: Large-Scale Simulation of Household Tasks for Generalist Robots <hr>
     Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning <hr>
     Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers <hr>
-    Demonstrating Item Picking at Scale via Effective Learning of Multimodal Representations <hr>
     Offline Imitation Learning Through Graph Search and Retrieval <hr>
     RVT-2: Learning Precise Manipulation from Few Demonstrations <hr>
     Imitation Bootstrapped Reinforcement Learning
