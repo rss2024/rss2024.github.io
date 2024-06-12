@@ -38,7 +38,7 @@ published: true
 </style>
 
 
-## Day 1
+## Day 1 (Tuesday, July 16,)
 
 <table id="myTable">
   <tr>
@@ -127,7 +127,7 @@ published: true
 
 </table>
 
-## Day 2
+## Day 2 (Wednesday, July 17)
 
 <table id="myTable">
   <tr>
@@ -203,7 +203,7 @@ published: true
 </table>
 
 
-## Day 3
+## Day 3 (Thursday, July 18)
 
 <table id="myTable">
   <tr>
@@ -266,7 +266,7 @@ published: true
 </table>
 
 
-## Day 4
+## Day 4 (Friday, July 19)
 
 <table id="myTable">
   <tr>
