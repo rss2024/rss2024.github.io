@@ -12,9 +12,9 @@ abstractName = 4# "Abstract"
 supplementaryName = -1# "Supplementary"
 notesName = 12# "Notes"
 cmtName = 2
-o = open("rss2023ProgramForGenScript.csv","w")
+o = open("rss2024ProgramForGenScript.csv","w")
 writer = csv.writer(o)
-with open("rss2023Program.csv") as csvfile:
+with open("rss2024Program.csv") as csvfile:
 	reader = csv.reader(csvfile)
 	sessionName = ""
 	header = True

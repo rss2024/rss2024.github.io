@@ -1,6 +1,12 @@
 """
 Script for generating individual paper pages (RSS 2022 format)
-python generate_paper_pages.py ../rss2022CameraReady.csv ../../_program/papers
+
+Mac:
+
+python3 generate_paper_pages.py ../rss2024CameraReadyInfo.csv ../../_program/papers
+
+Windows:
+python -3 generate_paper_pages.py ../rss2024CameraReadyInfo.csv ../../_program/papers
 
 Contact: Yuke Zhu (yukez@cs.utexas.edu)
 """
