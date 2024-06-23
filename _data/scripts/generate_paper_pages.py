@@ -76,7 +76,7 @@ def main():
         reader = csv.DictReader(f)
 
         for row in reader:
-          paperIDValue = "{0:03}".format(int(row[paperIDName]))
+          paperIDValue = str(row[paperIDName])
           paperID = paperIDValue
           filename = os.path.join(args.outdir, paperID + ".md")
 

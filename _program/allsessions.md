@@ -4,7 +4,7 @@ title: Paper Sessions
 description: List of Paper Sessions.
 priority: 10
 invisible: false
-published: false
+published: true
 ---
   
 <style>
@@ -37,7 +37,9 @@ published: false
 
 Check the list of accepted papers <a href="{{ site.baseurl }}/program/papers/"><strong>[here]</strong></a>.
 
+<!--
 For information about the location of the sessions check out the [venue page]({{ site.baseurl }}/attending/atvenue/).
+-->
 
 <hr>
 
@@ -47,7 +49,7 @@ For information about the location of the sessions check out the [venue page]({{
     <th >Time</th>
     <th >Session Name and Chairs</th>
   </tr>
- {% for session in site.data.rss2023PaperSessions %}
+ {% for session in site.data.rss2024PaperSessions %}
   <tr session="{{ session.SessionName }}" style="border-bottom: none;">
     <td>{{ session.Date }}</td>
     <td>{{ session.Time }}</td>

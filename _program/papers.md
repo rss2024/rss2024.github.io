@@ -3,8 +3,8 @@ layout: page
 title: Accepted Papers
 description: Accepted papers.
 priority: 11
-invisible: false
-published: false
+invisible: true
+published: true
 ---
 
 <style>
@@ -67,7 +67,7 @@ The overview of the conference program is available <a href="{{ site.baseurl }}/
     <th>Title</th>
     <th>Authors</th>
   </tr>
- {% for paper in site.data.rss2023CameraReadyInfo %}
+ {% for paper in site.data.rss2024CameraReadyInfo %}
  <tr session="{{ paper.SessionName }}">
     <td width="5%" height="100px">{{paper.PaperID }}</td>
     <td width="45%" height="100px" ><a href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
