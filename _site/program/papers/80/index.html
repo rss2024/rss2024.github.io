@@ -1033,7 +1033,7 @@
   <br/>
   <div class="paper-authors">
 <div class="paper-author-box">
-    <div class="paper-author-name">Jonathan Michaux, Adam Li, Qingyi Chen, Che Chen, Ram Vasudevan</div>
+    <div class="paper-author-name">Kyle Stachowicz, Sergey Levine</div>
     <div class="paper-author-uni"></div>
 </div>
 
@@ -1050,8 +1050,11 @@
 
 <h4 style="margin-top: 10px; color: #555555; text-align: center;" id="poster-32">Poster 32</h4>
 
-<p style="color:gray; font-size: 120%; text-align: justified;"><b style="color: black;">Abstract: </b>Generating safe motion plans in real-time is necessary for the wide-scale deployment of robots in unstructured and human-centric environments. These motion plans must be safe to ensure humans are not harmed and nearby objects are not damaged.
- However, they must also be generated in real-time to ensure the robot can quickly adapt to changes in the environment. Many trajectory optimization methods introduce heuristics that trade-off safety and real-time performance, which can lead to potentially unsafe plans. This paper addresses this challenge by proposing Safe Planning for Articulated Robots Using Reachability-based Obstacle Avoidance With Spheres (SPARROWS). SPARROWS is a receding-horizon trajectory planner that utilizes the combination of a novel reachable set representation and an exact signed distance function to generate provably-safe motion plans. At runtime, SPARROWS uses parameterized trajectories to compute reachable sets composed entirely of spheres that overapproximate the swept volume of the robot’s motion. SPARROWS then performs trajectory optimization to select a safe trajectory that is guaranteed to be collision-free. We demonstrate that SPARROWS’ novel reachable set is significantly less conservative than previous approaches. We also demonstrate that SPARROWS outperforms a variety of state-of-the-art methods in solving challenging motion planning tasks in cluttered environments. Code will be released upon acceptance of this manuscript.</p>
+<p><b style="color: black;">Abstract: </b>Reinforcement learning provides an appealing framework for robotic control due to its ability to learn expressive policies purely through real-world interaction. However, this requires addressing real-world constraints, including avoidance of catastrophic failures during training, which might severely impede both learning progress and the performance of the final policy. In many robotics settings, this amounts to avoiding certain “unsafe” states. The high-speed off-road driving task represents a particularly challenging instantiation of this problem: a high-return policy should drive as aggressively and as quickly as possible, which often requires getting close to the edge of the set of “safe” states, and therefore places a particular burden on the method to avoid frequent failures.</p>
+
+<p>To both learn highly performant policies and avoid excessive failures, we propose a reinforcement learning framework that combines risk-sensitive control with an adaptive action space curriculum. We propose a reinforcement learning objective that uses a risk-sensitive metric to jointly train a policy and iteratively expand action bounds during training, starting with a low-speed policy and slowly increasing the speed over time. Furthermore, we show that our risk-sensitive objective automatically avoids out-of-distribution states when equipped with an estimator for epistemic uncertainty.</p>
+
+<p style="color:gray; font-size: 120%; text-align: justified;">We implement our algorithm on a small-scale rally car and show that it is capable of learning high-speed policies for a real-world off-road driving task. We show that our method greatly reduces the number of safety violations during the training process, and actually leads to better final high-speed driving policies at the end of training.</p>
 
 <div class="paper-menu">
 <a href="/program/papers/079/"> <img src="/images/previous_paper_icon.png" alt="Previous Paper" title="Previous Paper" /> </a>

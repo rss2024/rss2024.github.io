@@ -1033,7 +1033,7 @@
   <br/>
   <div class="paper-authors">
 <div class="paper-author-box">
-    <div class="paper-author-name">Kenneth Shaw, Ananye Agarwal, Shikhar Bahl, Mohan Kumar Srirama, Alexandre Kirchmeyer, Aditya Kannan, Aravind Sivakumar, Deepak Pathak</div>
+    <div class="paper-author-name">Lucy Xiaoyang Shi, Zheyuan Hu, Tony Z. Zhao, Archit Sharma, Karl Pertsch, Jianlan Luo, Sergey Levine, Chelsea Finn</div>
     <div class="paper-author-uni"></div>
 </div>
 
@@ -1050,7 +1050,11 @@
 
 <h4 style="margin-top: 10px; color: #555555; text-align: center;" id="poster-25">Poster 25</h4>
 
-<p style="color:gray; font-size: 120%; text-align: justified;"><b style="color: black;">Abstract: </b>Emulating human-like dexterity with robotic hands has been a long-standing challenge in robotics. In recent years, machine learning has demanded robot hands to be reliable, inexpensive and easy-to-reproduce. For the past few years we have been investigating how to address these demands. We will demonstrate our three robot hands that address this problem ranging from rigid easy-to-simulate hand to soft but strong dexterous robot hands performing three different machine learning tasks. Our first machine learning task will be teleoperation, where we will develop a new mobile arm and hand motion capture system that we will bring to RSS 2024. Second, we will demonstrate how to use human-video and human motion to teach robot hands. Finally, we will show how to continually improve these policies using reinforcement learning in both simulation and the real-world. This demo will be engaging, will serve to demystify dexterous manipulation and inspire researchers to bring robot hands into their own projects. Please see our website at https://leaphand.com/rss2024demo for more interactive information.</p>
+<p style="color:gray; font-size: 120%; text-align: justified;"><b style="color: black;">Abstract: </b>Hierarchical policies that combine language and low-level control have been shown to perform impressively long-horizon robotic tasks, by leveraging either zero-shot high-level planners like pretrained language and vision-language models (LLMs/VLMs) or models trained on annotated robotic demonstrations. However, for complex and dexterous skills, attaining high success rates on long-horizon tasks still represents a major challenge – the longer the task is, the more likely it is that some stage will fail. In principle, a robust high-level controller can compensate for low-level failures by dynamically deploying corrections and adjustments, but training such high-level controllers in a way that is aware of the physical capabilities of the low-level skills requires costly demonstrations of entire multi-stage tasks. Can humans help the robot to continuously improve its long-horizon task performance through intuitive and natural feedback?
+ In this paper, we make the following observation: high-level policies that index into sufficiently rich and expressive low-level language-conditioned skills can be readily supervised with human feedback in the form of language corrections. 
+ We show that even fine-grained corrections, such as small movements (“move a bit to the left”), can be effectively incorporated into high level policies, and that such corrections can be readily obtained from humans observing the robot and making occasional suggestions.
+ This framework enables robots not only to rapidly adapt to real-time language feedback, but also incorporate this feedback into an iterative training scheme that improves the high-level policy’s ability to correct errors in both low-level execution and high-level decision-making purely from verbal feedback.
+ Our evaluation on real hardware shows that this leads to significant performance improvement in long-horizon, dexterous manipulation tasks without the need for any additional teleoperation.</p>
 
 <div class="paper-menu">
 <a href="/program/papers/024/"> <img src="/images/previous_paper_icon.png" alt="Previous Paper" title="Previous Paper" /> </a>

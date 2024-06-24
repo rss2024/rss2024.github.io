@@ -1033,7 +1033,7 @@
   <br/>
   <div class="paper-authors">
 <div class="paper-author-box">
-    <div class="paper-author-name">Yiqing Xu, Jiayuan Mao, Yilun Du, Tomás Lozano-Pérez, Leslie Pack Kaelbling, David Hsu</div>
+    <div class="paper-author-name">Hengyuan Hu, Suvir Mirchandani, Dorsa Sadigh</div>
     <div class="paper-author-uni"></div>
 </div>
 
@@ -1050,7 +1050,7 @@
 
 <h4 style="margin-top: 10px; color: #555555; text-align: center;" id="poster-7">Poster 7</h4>
 
-<p style="color:gray; font-size: 120%; text-align: justified;"><b style="color: black;">Abstract: </b>This paper studies the challenge of developing robots capable of understanding under-specified instructions for creating functional object arrangements, such as “set up a dining table for two”; previous arrangement approaches have focused on much more explicit instructions, such as “put object A on the table.” We introduce a framework, <em>SetItUp</em>, for learning to interpret under-specified instructions. SetItUp takes a small number of training examples and a human-crafted program sketch to uncover arrangement rules for specific scene types. By leveraging an intermediate graph-like representation of <em>abstract spatial relationships</em> among objects, SetItUp decomposes the arrangement problem into two subproblems: i) learning the arrangement patterns from limited data and ii) grounding these abstract relationships into object poses. SetItUp leverages large language models (LLMs) to propose the abstract spatial relationships among objects in novel scenes as the constraints to be satisfied; then, it composes a library of diffusion models associated with these abstract relationships to find object poses that satisfy the constraints. We validate our framework on a dataset comprising study desks, dining tables, and coffee tables, with the results showing superior performance in generating physically plausible, functional, and aesthetically pleasing object arrangements compared to existing models. \footnote{Project page: https://setitup-rss.github.io/}</p>
+<p style="color:gray; font-size: 120%; text-align: justified;"><b style="color: black;">Abstract: </b>Despite the considerable potential of reinforcement learning (RL), robotics control tasks predominantly rely on imitation learning (IL) due to its better sample efficiency. However, it is costly to collect comprehensive expert demonstrations that enable IL to generalize to all possible scenarios, and any distribution shift would require recollecting data for finetuning. Therefore, RL is appealing if it can build upon IL as an efficient autonomous self-improvement procedure. We propose <em>imitation bootstrapped reinforcement learning</em> (IBRL), a novel framework for sample-efficient RL with demonstrations that first trains an IL policy on the provided demonstrations and then uses it to propose alternative actions for both online exploration and bootstrapping target values. Compared to prior works that oversample the demonstrations or regularize RL with additional imitation loss, IBRL is able to utilize high quality actions from IL policies since the beginning of training, which greatly accelerates exploration and training efficiency. We evaluate IBRL on 6 simulation and 3 real-world tasks spanning various difficulty levels. IBRL significantly outperforms prior methods and the improvement is particularly more prominent in harder tasks.</p>
 
 <div class="paper-menu">
 <a href="/program/papers/055/"> <img src="/images/previous_paper_icon.png" alt="Previous Paper" title="Previous Paper" /> </a>

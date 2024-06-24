@@ -540,8 +540,6 @@
                                 
                                 
                                 
-                                
-                                
                             </ul>
                         </li>
                         
@@ -942,8 +940,6 @@
 
 
 
-
-
 <br>
 
 
@@ -1054,7 +1050,31 @@
 
 <h4 style="margin-top: 10px; color: #555555; text-align: center;" id="poster-2">Poster 2</h4>
 
-<p style="color:gray; font-size: 120%; text-align: justified;"><b style="color: black;">Abstract: </b>X</p>
+<p style="color:gray; font-size: 120%; text-align: justified;"><b style="color: black;">Abstract: </b>Recent strides in model predictive control (MPC)
+ underscore a dependence on numerical advancements to efficiently
+ and accurately solve large-scale problems. Given the substantial
+ number of variables characterizing typical whole-body optimal
+ control problems —often numbering in the thousands— exploiting
+ the sparse structure of the numerical problem becomes crucial
+ to meet computational demands, typically in the range of a
+ few milliseconds. A fundamental building block for computing
+ Newton or Sequential Quadratic Programming steps in direct
+ optimal control methods involves addressing the linear-quadratic
+ regulator (LQR) problem. This paper concentrates on equality-
+ constrained problems featuring implicit system dynamics and
+ dual regularization, a characteristic found in advanced interior-
+ point or augmented-Lagrangian solvers. Here, we introduce a
+ parallel algorithm designed for solving an LQR problem with
+ dual regularization. Leveraging a rewriting of the LQR recursion
+ through block elimination, we first enhanced the efficiency of
+ the serial algorithm, then subsequently generalized to handle
+ parametric LQR. This extension enables us to split decision
+ variables and to solve several subproblems concurrently. Our
+ algorithm is implemented (and will be released in open source) in a
+ nonlinear constrained implicit optimal control solver. It showcases
+ improved performance over previous serial formulations and we
+ validate its efficacy by deploying it in the model predictive control
+ of a real quadruped robot.</p>
 
 <div class="paper-menu">
 <a href="/program/papers/001/"> <img src="/images/previous_paper_icon.png" alt="Previous Paper" title="Previous Paper" /> </a>
