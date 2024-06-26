@@ -142,8 +142,8 @@ published: true
        <tr>
               <td style="background-color: #E2F0D950;">6:30PM</td>
               <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
-              <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
               <td rowspan=7 style="background-color: #D3D3D3;"><a>Banqueting start at 6:30 pm  – 10:00 pm</a></td>
+              <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
               <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
        </tr>
        <tr>
