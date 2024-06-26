@@ -59,7 +59,7 @@ published: true
             <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=3.%20Manipulation">3. Manipulation</a></td>
             <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=9.%20Locomotion%20and%20manipulation">9. Locomotion and manipulation</a></td>
             <td rowspan=1 style="background-color: #FFFFFF;"><a href="{{ site.baseurl }}/program/papersession?session=10.%20Perception">Early Career Spotlight Stefan Leutenegger</a></td>
-            <td rowspan=1 style="background-color: #D8BFD8;"><a href="{{ site.baseurl }}/program/papersession?session=17.%20Imitation%20learning">Poster imitation learning</a></td>
+            <td rowspan=1 style="background-color: #D9D9D950;"><a href="{{ site.baseurl }}/program/papersession?session=17.%20Imitation%20learning">Poster imitation learning</a></td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">11:30PM</td>
@@ -79,8 +79,8 @@ published: true
               </tr>
        <tr>
               <td style="background-color: #E2F0D950;">1:00PM</td>
-              <td rowspan=1 style="background-color: #D9D9D950;">Lunch and posters Planning and Manipulation</td>
-              <td rowspan=1 style="background-color: #D9D9D950;">Lunch and posters Perception and navigation and Locomotion and manipulation</td>
+              <td rowspan=1 style="background-color: #D9D9D950;">Lunch and posters planning and manipulation</td>
+              <td rowspan=1 style="background-color: #D9D9D950;">Lunch and posters perception and navigation, and locomotion and manipulation</td>
               </tr>
        <tr>
               <td style="background-color: #E2F0D950;">1:30PM</td>
@@ -106,8 +106,8 @@ published: true
        <tr>
               <td style="background-color: #E2F0D950;">3:30PM</td>
               <td style="background-color: #D9D9D950;">Coffee Break</td>
-              <td style="background-color: #D9D9D950;">Coffee break and posters Field robotics</td>
-              <td style="background-color: #D9D9D950;">Coffee break and posters Perception</td>
+              <td style="background-color: #D9D9D950;">Coffee break and posters field robotics</td>
+              <td style="background-color: #D9D9D950;">Coffee break and posters perception</td>
               <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=15.%20Planning">15. Planning</a></td>
               <td style="background-color: #D9D9D950;">Coffee Break</td>
        </tr>
@@ -126,18 +126,16 @@ published: true
               <td style="background-color: #E2F0D950;">5:00PM</td>
               <td rowspan=2 style="background-color: #BDD7EE50;"><a href="{{ site.baseurl }}/program/workshops#monday-july-10">None</a></td>
               <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=6.%20Grasping">6. Grasping</a></td>
-              <td style="background-color: #D9D9D950;">Poster navigation + Museum opens</td>
+              <td rowspan=3 style="background-color: #D9D9D950;">Poster navigation 5:00 pm – 5:30 pm + Museum opens 5:00 pm – 6:30 pm</td>
               <td rowspan=2 style="background-color: #D8BFD8;"><a href="{{ site.baseurl }}/program/papersession?session=3.%20Self-supervision%20and%20RL%20for%20Manipulation&c1=Joseph%20Lim&c2=Jens%20Kober&c1a=KAIST&c2a=TU%20Delft">Town Hall</a></td>
               </tr>
        <tr>
               <td style="background-color: #E2F0D950;">5:30PM</td>
-              <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
               </tr>
        <tr>
               <td style="background-color: #E2F0D950;">6:00PM</td>
-              <td rowspan=1 style="background-color: #A6A6A650;">Welcome Reception<br></td>
-              <td rowspan=1 style="background-color: #A6A6A650;">Poster HRI and Grasping<br></td>
-              <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
+              <td rowspan=3 style="background-color: #A6A6A650;">Welcome reception<br></td>
+              <td rowspan=1 style="background-color: #D9D9D950;">Poster HRI and grasping<br></td>
               <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
               <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
        </tr>
@@ -145,12 +143,14 @@ published: true
               <td style="background-color: #E2F0D950;">6:30PM</td>
               <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
               <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
-              <td rowspan=1 style="background-color: #D3D3D3;"><a>Banquet starts at 7</a></td>
-              <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
+              <td rowspan=7 style="background-color: #D3D3D3;"><a>Banqueting start at 6:30 pm  – 10:00 pm</a></td>
               <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">7:00PM</td>
+              <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
+              <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
+              <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">7:30PM</td>
@@ -160,6 +160,15 @@ published: true
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">8:30PM</td>
+       </tr>
+       <tr>
+              <td style="background-color: #E2F0D950;">9:00PM</td>
+       </tr>
+       <tr>
+              <td style="background-color: #E2F0D950;">9:30PM</td>
+       </tr>
+       <tr>
+              <td style="background-color: #E2F0D950;">10:00PM</td>
        </tr>
 </table>
 
