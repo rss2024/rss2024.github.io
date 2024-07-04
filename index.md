@@ -134,8 +134,31 @@ tutorials. This year, as always, we solicit your best work.
   <img alt="Lely" src="/2024/images/sponsors/LELY2024.jpg" style="width: 250px;" />
 </div>
 
-<div class="sponsor-row1 flex-container">
+<div>
 
+</div>
+
+<div class="sponsor-row1 flex-container">
+  <img alt="qualcom" src="/2024/images/sponsors/2024-13.jpg" style="width: 240px;" />
+    <img alt="Lely" src="/2024/images/sponsors/2024-5.png" style="width: 180px;" />
+      <img alt="Lely" src="/2024/images/sponsors/2024-2.png" style="width: 320px;" />
+</div>
+
+<div>
+
+</div>
+
+<div class="sponsor-row1 flex-container">
+  <img alt="Lely" src="/2024/images/sponsors/2024-1.jpg" style="width: 150px;" />
+    <img alt="Lely" src="/2024/images/sponsors/2024-3.png" style="width: 150px;" />
+    <img alt="Lely" src="/2024/images/sponsors/2024-4.png" style="width: 150px;" />
+    <img alt="Lely" src="/2024/images/sponsors/2024-7.png" style="width: 150px;" />
+    <img alt="Lely" src="/2024/images/sponsors/2024-8.png" style="width: 150px;" />
+     <img alt="Lely" src="/2024/images/sponsors/2024-9.jpg" style="width: 150px;" />
+     <img alt="Lely" src="/2024/images/sponsors/2024-10.png" style="width: 100px;" />
+     <img alt="Lely" src="/2024/images/sponsors/2024-11.png" style="width: 80px;" />
+     <img alt="Lely" src="/2024/images/sponsors/2024-12.jpeg" style="width: 150px;" />
+     <img alt="Lely" src="/2024/images/sponsors/2024-14.png" style="width: 150px;" />
   <img alt="Delft Municipality" src="/2024/images/sponsors/Gemeente2024.jpg" style="width: 250px; " />
   <img alt="RoboHouse" src="/2024/images/sponsors/RoboHouse2024.svg" style="width: 100px; " />
   <img alt="RoboHouse" src="/2024/images/sponsors/TUDRI_logo.svg" style="width: 450px; " />
