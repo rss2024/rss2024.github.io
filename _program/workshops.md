@@ -31,7 +31,11 @@ Workshops will take place across two days of the conference on July 15 and July 
         {% for workshop in site.data.ws %}
         <tr>
             <td><span style="font-weight:bold; color: #3a3946;"> {{ workshop.id }} </span></td>
-            <td>{{ workshop.location }}</td>
+            {% if workshop.link != "" %}
+                <td><a href="{{ workshop.link }}">{{ workshop.location }}</a></td>
+            {% else %}
+                <td>{{ workshop.location }}</td>
+            {% endif %}
             <td>{{ workshop.title }}</td>
             <td>
                 <a href="{{ workshop.website }}">
@@ -60,7 +64,12 @@ Workshops will take place across two days of the conference on July 15 and July 
         {% for workshop in site.data.ws2 %}
         <tr>
             <td><span style="font-weight:bold; color: #3a3946;"> {{ workshop.id }} </span></td>
-             <td>{{ workshop.location }}</td>
+            {% if workshop.link != "" %}
+                <td><a href="{{ workshop.link }}">{{ workshop.location }}</a></td>
+            {% else %}
+                <td>{{ workshop.location }}</td>
+            {% endif %}
+            <td>{{ workshop.title }}</td>
             <td>{{ workshop.title }}</td>
             <td>
                 <a href="{{ workshop.website }}">
