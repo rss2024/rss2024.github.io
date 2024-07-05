@@ -16,20 +16,22 @@ Workshops will take place across two days of the conference on July 15 and July 
 
 ### Monday, July 15 
 #### (Full-day workshops)
-{% assign innerdays = "15th, 12-13, tbd" | split: ", " %}
+{% assign innerdays = "19th, tbd" | split: ", " %}
 
 <table class="table table-striped table-workshop">
     <thead>
         <tr>
-            <th width="7%" align="center">ID</th>
-            <th width="50%">Title</th>
-            <th width="28%">Website</th>
+            <th width="10%" align="center">ID</th>
+            <th width="30%">Location</th>
+            <th width="40%">Title</th>
+            <th width="20%">Website</th>
         </tr>
     </thead>
     <tbody>
         {% for workshop in site.data.ws %}
         <tr>
             <td><span style="font-weight:bold; color: #3a3946;"> {{ workshop.id }} </span></td>
+            <td>{{ workshop.location }}</td>
             <td>{{ workshop.title }}</td>
             <td>
                 <a href="{{ workshop.website }}">
@@ -49,6 +51,7 @@ Workshops will take place across two days of the conference on July 15 and July 
     <thead>
         <tr>
             <th width="7%" align="center">ID</th>
+            <th width="40%">Location</th>
             <th width="50%">Title</th>
             <th width="28%">Website</th>
         </tr>
@@ -57,6 +60,7 @@ Workshops will take place across two days of the conference on July 15 and July 
         {% for workshop in site.data.ws2 %}
         <tr>
             <td><span style="font-weight:bold; color: #3a3946;"> {{ workshop.id }} </span></td>
+             <td>{{ workshop.location }}</td>
             <td>{{ workshop.title }}</td>
             <td>
                 <a href="{{ workshop.website }}">
