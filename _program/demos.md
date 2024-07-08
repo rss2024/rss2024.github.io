@@ -11,8 +11,6 @@ published: true
 
 <div style="display: block; width: 100%; height: 20px;"></div>
 
-
-
 <table class="table table-striped table-workshop">
     <thead>
         <tr>
@@ -43,6 +41,11 @@ published: true
 </table>
 
 <span style="color:white; font-size:50px;">&nbsp;</span><br>
+
+<div style="text-align: center;">
+    <img alt="Lely" src="/2024/images/map.png" style="width: 80%;" />
+</div>
+
 <span style="color:white; font-size:50px;">&nbsp;</span><br>
 <span style="color:white; font-size:50px;">&nbsp;</span><br>
 <span style="color:white; font-size:50px;">&nbsp;</span><br>
