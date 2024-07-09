@@ -65,7 +65,7 @@ published: true
               <td style="background-color: #E2F0D950;">11:00AM</td>
             <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=3.%20Manipulation">3. Manipulation</a></td>
             <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=9.%20Locomotion%20and%20manipulation">9. Locomotion and manipulation</a></td>
-            <td rowspan=1 style="background-color: #FFFFFF;"><a href="{{ site.baseurl }}/program/papersession?session=10.%20Perception">Early Career Spotlight Stefan Leutenegger</a></td>
+            <td rowspan=1 style="background-color: #FFFFFF;"><a href="https://roboticsconference.org/program/earlycareer/">Early Career Spotlight Stefan Leutenegger</a></td>
             <td rowspan=1 style="background-color: #D9D9D950;"><a href="{{ site.baseurl }}/program/papersession?session=17.%20Imitation%20learning">Poster imitation learning</a></td>
        </tr>
        <tr>
