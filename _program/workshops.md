@@ -12,6 +12,11 @@ published: true
 Workshops will take place across two days of the conference on July 15 and July 19, 2024. Each workshop is organized as a semi-independent event, and has a unique schedule reflecting the planned activities, constraints and preferences of the organizers. Please check the workshop websites for more details on their particular schedules. 
 
 
+<div style="text-align: center;">
+    <img alt="Lely" src="/2024/images/RSS-workshops-map.png" style="width: 70%;" />
+</div>
+
+
 <div style="display: block; width: 100%; height: 20px;"></div>
 
 ### Monday, July 15 
