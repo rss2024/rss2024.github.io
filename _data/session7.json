@@ -1,58 +1,51 @@
 [
     {
         "Order": 1,
-        "Title": "Demonstrating Event-Triggered Investigation and Sample Collection for Human Scientists using Field Robots and Large Foundation Models",
-        "Location": "see demo schedule",
-        "PosterBoardNr": null,
-        "Authors": "Tirthankar Bandyopadhyay, Fletcher Talbot, Callum Bennie, Hashini Senaratne, Xun Li, Brendan Tidd, Mingze Xi, Jan Stiefel, Volkan Dedeoglu, Rod Taylor, Tea Molnar, Ziwei Wang, Josh Pinskier, Feng Xu, Lois Liow, Ben Burgess-Limerick, Jesse Haviland, Pavan Sikka, Simon Murrell, Jane Hodgkinson"
+        "Title": "RT-H: Action Hierarchies using Language",
+        "Location": "Senaatzaal",
+        "PosterBoardNr": 101,
+        "Authors": "Suneel Belkhale, Tianli Ding, Ted Xiao, Pierre Sermanet, Quan Vuong, Jonathan Tompson, Yevgen Chebotar, Debidatta Dwibedi, Dorsa Sadigh"
     },
     {
         "Order": 2,
-        "Title": "CraterGrader: Autonomous Robotic Terrain Manipulation for Lunar Site Preparation and Earthmoving",
+        "Title": "RoboCasa: Large-Scale Simulation of Household Tasks for Generalist Robots",
         "Location": "Senaatzaal",
-        "PosterBoardNr": 118,
-        "Authors": "Ryan Lee, Benjamin Younes, Alexander Pletta, John Harrington, Russell Q. Wong, William Whittaker"
+        "PosterBoardNr": 102,
+        "Authors": "Soroush Nasiriany, Abhiram Maddukuri, Lance Zhang, Adeet Parikh, Aaron Lo, Abhishek Joshi, Ajay Mandlekar, Yuke Zhu"
     },
     {
         "Order": 3,
-        "Title": "POAM: Probabilistic Online Attentive Mapping for Efficient Robotic Information Gathering",
+        "Title": "Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning",
         "Location": "Senaatzaal",
-        "PosterBoardNr": 119,
-        "Authors": "Weizhe Chen, Lantao Liu, Roni Khardon"
+        "PosterBoardNr": 103,
+        "Authors": "Vitalis Vosylius, Younggyo Seo, Jafar Uruç, Stephen James"
     },
     {
         "Order": 4,
-        "Title": "Blending Data-Driven Priors in Dynamic Games",
+        "Title": "Vid2Robot: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers",
         "Location": "Senaatzaal",
-        "PosterBoardNr": 120,
-        "Authors": "Justin Lidard, Haimin Hu, Asher Hancock, Zixu Zhang, Albert Gimo Contreras, Vikash Modi, Jonathan DeCastro, Deepak Gopinath, Guy Rosman, Naomi Leonard, Maria Santos, Jaime Fernández Fisac"
+        "PosterBoardNr": 104,
+        "Authors": "Vidhi Jain, Maria Attarian, Nikhil J Joshi, Ayzaan Wahid, Danny Driess, Quan Vuong, Pannag R Sanketi, Pierre Sermanet, Stefan Welker, Christine Chan, Igor Gilitschenski, Yonatan Bisk, Debidatta Dwibedi"
     },
     {
         "Order": 5,
-        "Title": "Demonstrating HOUND: A Low-cost Research Platform for High-speed Off-road Underactuated Nonholonomic Driving",
-        "Location": "see demo schedule",
-        "PosterBoardNr": null,
-        "Authors": "Sidharth Talia, Matthew Schmittle, Alexander Lambert, Alexander Spitzer, Christoforos Mavrogiannis, Siddhartha Srinivasa"
+        "Title": "Offline Imitation Learning Through Graph Search and Retrieval",
+        "Location": "Commissiekamer 2",
+        "PosterBoardNr": 201,
+        "Authors": "Zhao-Heng Yin, Pieter Abbeel"
     },
     {
         "Order": 6,
-        "Title": "Model Predictive Control for Aggressive Driving Over Uneven Terrain",
+        "Title": "RVT-2: Learning Precise Manipulation from Few Demonstrations",
         "Location": "Commissiekamer 2",
-        "PosterBoardNr": 210,
-        "Authors": "Tyler Han, Alex Liu, Anqi Li, Alexander Spitzer, Guanya Shi, Byron Boots"
+        "PosterBoardNr": 202,
+        "Authors": "Ankit Goyal, Valts Blukis, Jie Xu, Yijie Guo, Yu-Wei Chao, Dieter Fox"
     },
     {
         "Order": 7,
-        "Title": "Demonstrating CropFollow++: Robust Under-Canopy Navigation with Keypoints",
-        "Location": "see demo schedule",
-        "PosterBoardNr": null,
-        "Authors": "Arun Narenthiran Sivakumar, Mateus Valverde Gasparino, Michael McGuire, Vitor Akihiro Hisano Higuti, M. Ugur Akcal, Girish Chowdhary"
-    },
-    {
-        "Order": 8,
-        "Title": "SEEK: Semantic Reasoning for Object Goal Navigation in Real World Inspection Tasks",
+        "Title": "Imitation Bootstrapped Reinforcement Learning",
         "Location": "Commissiekamer 3",
-        "PosterBoardNr": 309,
-        "Authors": "Muhammad Fadhil Ginting, Sung-Kyun Kim, David Fan, Matteo Palieri, Mykel Kochenderfer, Ali-akbar Agha-mohammadi"
+        "PosterBoardNr": 301,
+        "Authors": "Hengyuan Hu, Suvir Mirchandani, Dorsa Sadigh"
     }
 ]

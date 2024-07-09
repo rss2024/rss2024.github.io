@@ -1,58 +1,58 @@
 [
     {
         "Order": 1,
-        "Title": "Demonstrating Event-Triggered Investigation and Sample Collection for Human Scientists using Field Robots and Large Foundation Models",
-        "Location": "see demo schedule",
-        "PosterBoardNr": null,
-        "Authors": "Tirthankar Bandyopadhyay, Fletcher Talbot, Callum Bennie, Hashini Senaratne, Xun Li, Brendan Tidd, Mingze Xi, Jan Stiefel, Volkan Dedeoglu, Rod Taylor, Tea Molnar, Ziwei Wang, Josh Pinskier, Feng Xu, Lois Liow, Ben Burgess-Limerick, Jesse Haviland, Pavan Sikka, Simon Murrell, Jane Hodgkinson"
+        "Title": "An abstract theory of sensor eventification",
+        "Location": "Senaatzaal",
+        "PosterBoardNr": 117,
+        "Authors": "Yulin Zhang, Dylan Shell"
     },
     {
         "Order": 2,
-        "Title": "CraterGrader: Autonomous Robotic Terrain Manipulation for Lunar Site Preparation and Earthmoving",
+        "Title": "Octopi: Object Property Reasoning with Large Tactile-Language Models",
         "Location": "Senaatzaal",
         "PosterBoardNr": 118,
-        "Authors": "Ryan Lee, Benjamin Younes, Alexander Pletta, John Harrington, Russell Q. Wong, William Whittaker"
+        "Authors": "Samson Yu, Lin Kelvin, Anxing Xiao, Jiafei Duan, Harold Soh"
     },
     {
         "Order": 3,
-        "Title": "POAM: Probabilistic Online Attentive Mapping for Efficient Robotic Information Gathering",
+        "Title": "3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations",
         "Location": "Senaatzaal",
         "PosterBoardNr": 119,
-        "Authors": "Weizhe Chen, Lantao Liu, Roni Khardon"
+        "Authors": "Yanjie Ze, Gu Zhang, Kangning Zhang, Chenyuan Hu, Muhan Wang, Huazhe Xu"
     },
     {
         "Order": 4,
-        "Title": "Blending Data-Driven Priors in Dynamic Games",
+        "Title": "HRP: Human affordances for Robotic Pre-training",
         "Location": "Senaatzaal",
         "PosterBoardNr": 120,
-        "Authors": "Justin Lidard, Haimin Hu, Asher Hancock, Zixu Zhang, Albert Gimo Contreras, Vikash Modi, Jonathan DeCastro, Deepak Gopinath, Guy Rosman, Naomi Leonard, Maria Santos, Jaime Fernández Fisac"
+        "Authors": "Mohan Kumar Srirama, Sudeep Dasari, Shikhar Bahl, Abhinav Gupta"
     },
     {
         "Order": 5,
-        "Title": "Demonstrating HOUND: A Low-cost Research Platform for High-speed Off-road Underactuated Nonholonomic Driving",
-        "Location": "see demo schedule",
-        "PosterBoardNr": null,
-        "Authors": "Sidharth Talia, Matthew Schmittle, Alexander Lambert, Alexander Spitzer, Christoforos Mavrogiannis, Siddhartha Srinivasa"
+        "Title": "MIRAGE: Cross-Embodiment Zero-Shot Policy Transfer with Cross-Painting",
+        "Location": "Commissiekamer 2",
+        "PosterBoardNr": 209,
+        "Authors": "Lawrence Yunliang Chen, Karthik Dharmarajan, Kush Hari, Chenfeng Xu, Quan Vuong, Ken Goldberg"
     },
     {
         "Order": 6,
-        "Title": "Model Predictive Control for Aggressive Driving Over Uneven Terrain",
+        "Title": "Broadcasting Support Relations Recursively from Local Dynamics for Object Retrieval in Clutters",
         "Location": "Commissiekamer 2",
         "PosterBoardNr": 210,
-        "Authors": "Tyler Han, Alex Liu, Anqi Li, Alexander Spitzer, Guanya Shi, Byron Boots"
+        "Authors": "Yitong Li, Ruihai Wu, Haoran Lu, Chuanruo Ning, Yan Shen, Guanqi Zhan, Hao Dong"
     },
     {
         "Order": 7,
-        "Title": "Demonstrating CropFollow++: Robust Under-Canopy Navigation with Keypoints",
-        "Location": "see demo schedule",
-        "PosterBoardNr": null,
-        "Authors": "Arun Narenthiran Sivakumar, Mateus Valverde Gasparino, Michael McGuire, Vitor Akihiro Hisano Higuti, M. Ugur Akcal, Girish Chowdhary"
+        "Title": "Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation",
+        "Location": "Commissiekamer 3",
+        "PosterBoardNr": 309,
+        "Authors": "Aaditya Prasad, Kevin Lin, Jimmy Wu, Linqi Zhou, Jeannette Bohg"
     },
     {
         "Order": 8,
-        "Title": "SEEK: Semantic Reasoning for Object Goal Navigation in Real World Inspection Tasks",
+        "Title": "CLOSURE: Fast Quantification of Pose Uncertainty Sets",
         "Location": "Commissiekamer 3",
-        "PosterBoardNr": 309,
-        "Authors": "Muhammad Fadhil Ginting, Sung-Kyun Kim, David Fan, Matteo Palieri, Mykel Kochenderfer, Ali-akbar Agha-mohammadi"
+        "PosterBoardNr": 310,
+        "Authors": "Yihuai Gao, Yukai Tang, Han Qi, Heng Yang"
     }
 ]
