@@ -125,8 +125,8 @@ invisible: true
           # Write link to paper PDF
           # <div> <a href="http://www.roboticsproceedings.org/rss19/p{}.pdf">Paper&nbsp;#{}</a> </div>
           paperIconString = '''<div class="paper-pdf">
-<div> <a href="http://www.roboticsproceedings.org/rss19/p{}.pdf"><img src="{{{{ site.baseurl }}}}/images/paper_link.png" alt="Paper Website" width = "33"  height = "40"/></a> </div>
-</div>\n\n'''.format(paperIDValue,paperIDValue,paperIDValue)
+                <div> <a href="https://enriquecoronadozu.github.io/rssproceedings2024/rss20/p{}.pdf"><img src="{{{{ site.baseurl }}}}/images/paper_link.png" alt="Paper Website" width = "33"  height = "40"/></a> </div>
+                </div>\n\n'''.format(paperIDValue.zfill(3))
           if paperIDValue not in embargo:
             g.write(paperIconString)
 
