@@ -7,6 +7,37 @@ invisible: false
 published: true
 ---
 
+# Notification
+
+Dear RSS2024 participants,
+
+We are writing to inform you of an important update regarding transportation for the upcoming RSS2024 conference in Delft.
+
+Unfortunately, due to construction on the train line from The Hague to Rotterdam via Delft, the national railway operator NS has just announced that no train services will be available during the conference dates. Instead, they will provide buses as substitutes. Please be aware that this change will result in longer travel times and a suboptimal overall travel experience!
+
+**Let us know** by filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLSfo9_J4SoFRoOsyV5IDw9H141kKYvNhircZD7n3jWTp0ftjjg/viewform)  **if your hotel is not in Delft** - but in Rotterdam or Den Haag. Currently, it seems that there is not much we can do, but at least it would help us assess the situation.
+
+We recommend that you plan your journey accordingly to ensure timely arrival. Below are a few key points to consider:
+
+- **Bus Departure Locations:** Buses will depart from the same locations as the trains.
+- **Travel Times:** Please allow extra time for your journey as buses may take longer than trains.
+- **Schedule:** Updated schedules are available on the NS website [https://www.ns.nl/en/journeyplanner/](https://www.ns.nl/en/journeyplanner/)
+We provide the following travel advice:
+
+- For travel between **Amsterdam Schiphol airport** and Delft, you can take the train to Den Haag HS and, from there, the connecting NS bus to Delft. The train ticket is your valid pass.
+An alternative that will probably work better but would require paying a separate ticket is to take the tram 1 to Delft, which again departs from Den Haag HS.
+- For travel between **Den Haag** and Delft you may take the NS bus from the train stations or tram 1 from Den Haag HS.
+- For travel between **Rotterdam** and Delft you may take the NS bus from the train station.
+
+For travel in the Netherlands, you may buy a ticket from vending machines or use your contactless credit/bank card to directly enter and exit public transport.
+
+If you have any questions or need further assistance, please do not hesitate to contact us.
+
+Thank you for your attention to this matter. We look forward to seeing you at the conference.
+
+Best regards,
+
+Local organizers RSS 2024
 
 
 # Travel information
