@@ -91,8 +91,8 @@ published: true
               </tr>              
        <tr>
               <td style="background-color: #E2F0D950;">1:30PM</td>
-              <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=4.%Field robotics">4. Field robotics</a></td>
-              <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=10.%20Perception">10 .Perception</a></td>
+              <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=4.%20Field%20robotics">4. Field robotics</a></td>
+              <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession/?session=4.%20Field%20robotics">10 .Perception</a></td>
               <td style="background-color: #D9D9D950;"> Lunch and posters control and robot design</td>
               <td rowspan=4 style="background-color: #BDD7EE50;"><a href="{{ site.baseurl }}/program/workshops#friday-july-14">Half-day workshops</a></td>
        </tr>
