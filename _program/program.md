@@ -317,7 +317,7 @@ published: true
         </tr>
     </thead>
     <tbody>
-        {% for workshop in site.data.session10 %}
+        {% for workshop in site.data.session11 %}
         <tr>
             <td><span style="font-weight:bold; color: #3a3946;"> {{ workshop.Order }} </span></td>
             <td>{{ workshop.Location }}</td>

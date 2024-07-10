@@ -2,7 +2,7 @@
     {
         "Order": 1,
         "Title": "GOAT: GO to Any Thing",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 121,
         "Authors": "Matthew Chang, Theophile Gervet, Mukul Khanna, Sriram Yenamandra, Dhruv Shah, So Yeon Min, Kavit Shah, Chris Paxton, Saurabh Gupta, Dhruv Batra, Roozbeh Mottaghi, Jitendra Malik, Devendra Singh Chaplot"
     },
@@ -16,28 +16,28 @@
     {
         "Order": 3,
         "Title": "RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Multi-Modal Large Language Model Learning",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 122,
         "Authors": "Jianhao Yuan, Shuyang Sun, Daniel Omeiza, Bo Zhao, Paul Newman, Lars Kunze, Matthew Gadd"
     },
     {
         "Order": 4,
         "Title": "Dynamic Adversarial Attacks on Autonomous Driving Systems",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 123,
         "Authors": "Amirhosein Chahe, Chenan Wang, Abhishek Jeyapratap, Kaidi Xu, Lifeng Zhou"
     },
     {
         "Order": 5,
         "Title": "Hierarchical Open-Vocabulary 3D Scene Graphs for Language-Grounded Robot Navigation",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 124,
         "Authors": "Abdelrhman Werby, Chenguang Huang, Martin Büchner, Abhinav Valada, Wolfram Burgard"
     },
     {
         "Order": 6,
         "Title": "ScrewMimic: Bimanual Imitation from Human Videos with Screw Space Projection",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 125,
         "Authors": "Arpit Bahety, Priyanka Mandikal, Ben Abbatematteo, Roberto Martín-Martín"
     },

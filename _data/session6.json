@@ -2,28 +2,28 @@
     {
         "Order": 1,
         "Title": "SpringGrasp: Synthesizing Compliant, Dexterous Grasps under Shape Uncertainty",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 125,
         "Authors": "Sirui Chen, Jeannette Bohg, Karen Liu"
     },
     {
         "Order": 2,
         "Title": "DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 126,
         "Authors": "Chen Wang, Haochen Shi, Weizhuo Wang, Ruohan Zhang, Li Fei-Fei, Karen Liu"
     },
     {
         "Order": 3,
         "Title": "GRaCE: Balancing Multiple Criteria to Achieve Stable, Collision-Free, and Functional Grasps",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 127,
         "Authors": "Tasbolat Taunyazov, Kelvin Lin, Harold Soh"
     },
     {
         "Order": 4,
         "Title": "Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 128,
         "Authors": "Cheng Chi, Zhenjia Xu, Chuer Pan, Eric Cousineau, Benjamin Burchfiel, Siyuan Feng, Russ Tedrake, Shuran Song"
     },

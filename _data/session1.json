@@ -2,28 +2,28 @@
   {
     "Order": 1,
     "Title": "Stein Variational Ergodic Search",
-    "Location": "Senaatzaal",
+    "Location": "Senaatszaal",
     "PosterBoardNr": 101,
     "Authors": "Darrick Lee, Cameron Lerch, Fabio Ramos, Ian Abraham"
   },
   {
     "Order": 2,
     "Title": "Parallel and Proximal Linear-Quadratic Methods for Real-Time Constrained Model-Predictive Control",
-    "Location": "Senaatzaal",
+    "Location": "Senaatszaal",
     "PosterBoardNr": 102,
     "Authors": "Wilson Jallet, Ewen Dantec, Etienne Arlaud, Nicolas Mansard, Justin Carpentier"
   },
   {
     "Order": 3,
     "Title": "Differentiable Robust Model Predictive Control",
-    "Location": "Senaatzaal",
+    "Location": "Senaatszaal",
     "PosterBoardNr": 103,
     "Authors": "Alex Oshin, Hassan Almubarak, Evangelos Theodorou"
   },
   {
     "Order": 4,
     "Title": "Computation-Aware Learning for Stable Control with Gaussian Process",
-    "Location": "Senaatzaal",
+    "Location": "Senaatszaal",
     "PosterBoardNr": 104,
     "Authors": "Wenhan Cao, Alexandre Capone, Rishabh Yadav, Sandra Hirche, Wei Pan"
   },

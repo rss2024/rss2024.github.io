@@ -2,28 +2,28 @@
     {
         "Order": 1,
         "Title": "Yell At Your Robot: Improving On-the-Fly from Language Corrections",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 121,
         "Authors": "Lucy Xiaoyang Shi, Zheyuan Hu, Tony Z. Zhao, Archit Sharma, Karl Pertsch, Jianlan Luo, Sergey Levine, Chelsea Finn"
     },
     {
         "Order": 2,
         "Title": "Task Adaptation in Industrial Human-Robot Interaction: Leveraging Riemannian Motion Policies",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 122,
         "Authors": "Mike Allenspach, Michael Pantic, Rik Girod, Lionel Ott, Roland Siegwart"
     },
     {
         "Order": 3,
         "Title": "Risk-Calibrated Human-Robot Interaction via Set-Valued Intent Prediction",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 123,
         "Authors": "Justin Lidard, Hang Pham, Ariel Bachman, Bryan Boateng, Anirudha Majumdar"
     },
     {
         "Order": 4,
         "Title": "Constraint-Aware Intent Estimation for Dynamic Human-Robot Object Co-Manipulation",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 124,
         "Authors": "Yifei Simon Shao, Tianyu Li, Shafagh Keyvanian, Pratik Chaudhari, Vijay Kumar, Nadia Figueroa"
     },

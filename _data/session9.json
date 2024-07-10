@@ -2,28 +2,28 @@
     {
         "Order": 1,
         "Title": "Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 113,
         "Authors": "Fan Shi, Chong Zhang, Takahiro Miki, Joonho Lee, Marco Hutter, Stelian Coros"
     },
     {
         "Order": 2,
         "Title": "Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 114,
         "Authors": "Xinyang Gu, Yen-Jen Wang, Xiang Zhu, Chengming Shi, Yanjiang Guo, Yichen Liu, Jianyu Chen"
     },
     {
         "Order": 3,
         "Title": "Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 115,
         "Authors": "Tairan He, Chong Zhang, Wenli Xiao, Guanqi He, Changliu Liu, Guanya Shi"
     },
     {
         "Order": 4,
         "Title": "RL2AC: Reinforcement Learning-based Rapid Online Adaptive Control for Legged Robot Robust Locomotion",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 116,
         "Authors": "Shangke Lyu, Xin Lang, Han Zhao, Hongyin Zhang, Pengxiang Ding, Donglin Wang"
     },

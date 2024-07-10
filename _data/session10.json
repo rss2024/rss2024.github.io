@@ -2,28 +2,28 @@
     {
         "Order": 1,
         "Title": "An abstract theory of sensor eventification",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 117,
         "Authors": "Yulin Zhang, Dylan Shell"
     },
     {
         "Order": 2,
         "Title": "Octopi: Object Property Reasoning with Large Tactile-Language Models",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 118,
         "Authors": "Samson Yu, Lin Kelvin, Anxing Xiao, Jiafei Duan, Harold Soh"
     },
     {
         "Order": 3,
         "Title": "3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 119,
         "Authors": "Yanjie Ze, Gu Zhang, Kangning Zhang, Chenyuan Hu, Muhan Wang, Huazhe Xu"
     },
     {
         "Order": 4,
         "Title": "HRP: Human affordances for Robotic Pre-training",
-        "Location": "Senaatzaal",
+        "Location": "Senaatszaal",
         "PosterBoardNr": 120,
         "Authors": "Mohan Kumar Srirama, Sudeep Dasari, Shikhar Bahl, Abhinav Gupta"
     },
