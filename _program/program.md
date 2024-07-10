@@ -331,6 +331,173 @@ published: true
 
 
 
+## Session 12. Robot learning foundation models
+### 18 July (8:30am-9:30am)
+
+
+<table class="table table-striped table-workshop">
+    <thead>
+        <tr>
+            <th width="5%" align="center">Order</th>
+            <th width="15%">Location</th>
+            <th width="25%">Title</th>
+            <th width="20%">Authors</th>
+            <th width="15%">PosterBoardNr</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for workshop in site.data.session12 %}
+        <tr>
+            <td><span style="font-weight:bold; color: #3a3946;"> {{ workshop.Order }} </span></td>
+            <td>{{ workshop.Location }}</td>
+            <td>{{ workshop.Title }}</td>
+            <td>{{ workshop.Authors }}</td>
+            <td>{{ workshop.PosterBoardNr }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+
+## Session 13. Robot design
+### 18 July (10:00am-11:00am)
+
+
+<table class="table table-striped table-workshop">
+    <thead>
+        <tr>
+            <th width="5%" align="center">Order</th>
+            <th width="15%">Location</th>
+            <th width="25%">Title</th>
+            <th width="20%">Authors</th>
+            <th width="15%">PosterBoardNr</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for workshop in site.data.session13 %}
+        <tr>
+            <td><span style="font-weight:bold; color: #3a3946;"> {{ workshop.Order }} </span></td>
+            <td>{{ workshop.Location }}</td>
+            <td>{{ workshop.Title }}</td>
+            <td>{{ workshop.Authors }}</td>
+            <td>{{ workshop.PosterBoardNr }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+
+## Session 14. Control
+### 18 July (11:30am-12:30pm)
+
+
+<table class="table table-striped table-workshop">
+    <thead>
+        <tr>
+            <th width="5%" align="center">Order</th>
+            <th width="15%">Location</th>
+            <th width="25%">Title</th>
+            <th width="20%">Authors</th>
+            <th width="15%">PosterBoardNr</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for workshop in site.data.session14 %}
+        <tr>
+            <td><span style="font-weight:bold; color: #3a3946;"> {{ workshop.Order }} </span></td>
+            <td>{{ workshop.Location }}</td>
+            <td>{{ workshop.Title }}</td>
+            <td>{{ workshop.Authors }}</td>
+            <td>{{ workshop.PosterBoardNr }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+## Session 15. Planning
+### 18 July (3:30pm-4:30pm)
+
+
+<table class="table table-striped table-workshop">
+    <thead>
+        <tr>
+            <th width="5%" align="center">Order</th>
+            <th width="15%">Location</th>
+            <th width="25%">Title</th>
+            <th width="20%">Authors</th>
+            <th width="15%">PosterBoardNr</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for workshop in site.data.session15 %}
+        <tr>
+            <td><span style="font-weight:bold; color: #3a3946;"> {{ workshop.Order }} </span></td>
+            <td>{{ workshop.Location }}</td>
+            <td>{{ workshop.Title }}</td>
+            <td>{{ workshop.Authors }}</td>
+            <td>{{ workshop.PosterBoardNr }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+
+## Session 16. Manipulation
+### 19 July (8:30am-9:30am)
+
+
+<table class="table table-striped table-workshop">
+    <thead>
+        <tr>
+            <th width="5%" align="center">Order</th>
+            <th width="15%">Location</th>
+            <th width="25%">Title</th>
+            <th width="20%">Authors</th>
+            <th width="15%">PosterBoardNr</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for workshop in site.data.session16 %}
+        <tr>
+            <td><span style="font-weight:bold; color: #3a3946;"> {{ workshop.Order }} </span></td>
+            <td>{{ workshop.Location }}</td>
+            <td>{{ workshop.Title }}</td>
+            <td>{{ workshop.Authors }}</td>
+            <td>{{ workshop.PosterBoardNr }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+
+## Session 17. Imitation learning
+### 19 July (10:00am-11:00am)
+
+
+<table class="table table-striped table-workshop">
+    <thead>
+        <tr>
+            <th width="5%" align="center">Order</th>
+            <th width="15%">Location</th>
+            <th width="25%">Title</th>
+            <th width="20%">Authors</th>
+            <th width="15%">PosterBoardNr</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for workshop in site.data.session17 %}
+        <tr>
+            <td><span style="font-weight:bold; color: #3a3946;"> {{ workshop.Order }} </span></td>
+            <td>{{ workshop.Location }}</td>
+            <td>{{ workshop.Title }}</td>
+            <td>{{ workshop.Authors }}</td>
+            <td>{{ workshop.PosterBoardNr }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+
 
 <span style="color:white; font-size:50px;">&nbsp;</span><br>
 <span style="color:white; font-size:50px;">&nbsp;</span><br>
