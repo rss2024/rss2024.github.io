@@ -46,9 +46,6 @@ published: true
     <img alt="Lely" src="/2024/images/map.png" style="width: 80%;" />
 </div>
 
-<div style="text-align: center;">
-    <img alt="Lely" src="/2024/images/RSS-workshops-map.png" style="width: 80%;" />
-</div>
 
 <span style="color:white; font-size:50px;">&nbsp;</span><br>
 <span style="color:white; font-size:50px;">&nbsp;</span><br>
