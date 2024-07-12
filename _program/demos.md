@@ -43,7 +43,7 @@ published: true
 <span style="color:white; font-size:50px;">&nbsp;</span><br>
 
 <div style="text-align: center;">
-    <img alt="Lely" src="/2024/images/map.png" style="width: 80%;" />
+    <img alt="Lely" src="/2024/images/demos.png" style="width: 50%;" />
 </div>
 
 
