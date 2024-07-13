@@ -18,7 +18,8 @@ published: true
 
 ## Session 1. Control
 
-### 16 July (8:30am-9:30am)
+### Oral: 16 July (8:30am-9:30am)
+### Poster: 16 July (9:30am - 10:00am)
 
 <table class="table table-striped table-workshop">
     <thead>
@@ -48,7 +49,8 @@ published: true
 
 ## Session 2. Planning
 
-### 16 July (10:00am-11:00am)
+### Oral: 16 July (10:00am-11:00am)
+### Poster: 16 July (1:00pm - 1:30pm)
 
 <table class="table table-striped table-workshop">
     <thead>
@@ -77,7 +79,8 @@ published: true
 
 ## Session 3. Manipulation
 
-### 16 July (11:00am-12:00pm)
+### Oral: 16 July (11:00am-12:00pm)
+### Poster: 16 July (1:00pm - 1:30pm)
 
 <table class="table table-striped table-workshop">
     <thead>
@@ -106,7 +109,8 @@ published: true
 
 ## Session 4. Field robotics
 
-### 16 July (1:30pm-2:30pm)
+### Oral: 16 July (1:30pm-2:30pm)
+### Poster: 16 July (3:30pm-4:00pm)
 
 <table class="table table-striped table-workshop">
     <thead>
@@ -134,7 +138,8 @@ published: true
 
 ## Session 5. HRI
 
-### 16 July (4:00pm-5:00pm)
+### Oral: 16 July (4:00pm-5:00pm)
+### Poster: 16 July (6:00pm-6:30pm)
 
 <table class="table table-striped table-workshop">
     <thead>
@@ -162,7 +167,8 @@ published: true
 
 ## Session 6. Grasping
 
-### 16 July (5:00pm-6:00pm)
+### Oral: 16 July (5:00pm-6:00pm)
+### Poster: 16 July (6:00pm-6:30pm)
 
 <table class="table table-striped table-workshop">
     <thead>
@@ -187,8 +193,9 @@ published: true
     </tbody>
 </table>
 
-## Session 7. HRI
-### 17 July (8:30am-9:30am)
+## Session 7. Imitation learning
+### Oral: 17 July (8:30am-9:30am)
+### Poster: 17 July (9:30am - 10:00am)
 
 
 <table class="table table-striped table-workshop">
@@ -216,7 +223,8 @@ published: true
 
 
 ## Session 8. Perception and navigation
-### 17 July (10:00am-11:00am)
+### Oral: 17 July (10:00am-11:00am)
+### Poster: 17 July (1:00pm - 1:30pm)
 
 
 <table class="table table-striped table-workshop">
@@ -245,7 +253,8 @@ published: true
 
 
 ## Session 9. Locomotion and manipulation
-### 17 July (11:00am-12:00pm)
+### Oral: 17 July (11:00am-12:00pm)
+### Poster: 17 July (1:00pm - 1:30pm)
 
 
 <table class="table table-striped table-workshop">
@@ -273,7 +282,8 @@ published: true
 
 
 ## Session 10. Perception
-### 17 July (1:30pm-2:30pm)
+### Oral: 17 July (1:30pm-2:30pm)
+### Poster: 17 July (3:30pm-4:00pm)
 
 
 <table class="table table-striped table-workshop">
@@ -303,7 +313,8 @@ published: true
 
 
 ## Session 11. Navigation
-### 17 July (4:00pm-5:00pm)
+### Oral: 17 July (4:00pm-5:00pm)
+### Poster: 17 July (5:00pm - 5:30pm)
 
 
 <table class="table table-striped table-workshop">
@@ -332,7 +343,8 @@ published: true
 
 
 ## Session 12. Robot learning foundation models
-### 18 July (8:30am-9:30am)
+### Oral: 18 July (8:30am-9:30am)
+### Poster: 18 July (9:30am - 10:00am)
 
 
 <table class="table table-striped table-workshop">
@@ -360,7 +372,8 @@ published: true
 
 
 ## Session 13. Robot design
-### 18 July (10:00am-11:00am)
+### Oral: 18 July (10:00am-11:00am)
+### Poster: 18 July (1:30pm-2:00pm)
 
 
 <table class="table table-striped table-workshop">
@@ -388,7 +401,8 @@ published: true
 
 
 ## Session 14. Control
-### 18 July (11:30am-12:30pm)
+### Oral: 18 July (11:30am-12:30pm)
+### Poster: 18 July (1:30pm-2:00pm)
 
 
 <table class="table table-striped table-workshop">
@@ -415,7 +429,9 @@ published: true
 </table>
 
 ## Session 15. Planning
-### 18 July (3:30pm-4:30pm)
+### Oral: 18 July (3:30pm-4:30pm)
+### Poster: 18 July (4:30pm - 5:00pm)
+
 
 
 <table class="table table-striped table-workshop">
@@ -443,7 +459,8 @@ published: true
 
 
 ## Session 16. Manipulation
-### 19 July (8:30am-9:30am)
+### Oral: 19 July (8:30am-9:30am)
+### Poster: 19 July (9:30 - 10:00am)
 
 
 <table class="table table-striped table-workshop">
@@ -471,7 +488,8 @@ published: true
 
 
 ## Session 17. Imitation learning
-### 19 July (10:00am-11:00am)
+### Oral: 19 July (10:00am-11:00am)
+### Poster: 19 July (11:00am - 11:30am)
 
 
 <table class="table table-striped table-workshop">
