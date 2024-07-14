@@ -136,7 +136,7 @@ published: true
               <td rowspan=2 style="background-color: #FFFFFF;"><a></a></td>
               <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=6.%20Grasping">6. Grasping</a></td>
               <td rowspan=3 style="background-color: #D9D9D950;">Poster navigation 5:00 pm – 5:30 pm + Museum opens 5:00 pm – 6:30 pm</td>
-              <td rowspan=2 style="background-color: #D8BFD8;"><a href="{{ site.baseurl }}/program/papersession?session=3.%20Self-supervision%20and%20RL%20for%20Manipulation&c1=Joseph%20Lim&c2=Jens%20Kober&c1a=KAIST&c2a=TU%20Delft">Town Hall</a></td>
+              <td rowspan=2 style="background-color: #D8BFD8;">Town Hall</td>
               </tr>
        <tr>
               <td style="background-color: #E2F0D950;">5:30PM</td>

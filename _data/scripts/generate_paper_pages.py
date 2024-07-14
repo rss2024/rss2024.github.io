@@ -148,7 +148,7 @@ invisible: true
           # g.write("### [Session "+row[sessionName]+"]({{ site.baseurl }}/program/papersession?session="+row[sessionName].replace(' ','%20').replace('&','%26')+")\n{: style=\"text-align: center;\"}\n\n")
           
 
-          link = "?session="+row[sessionName].replace(' ','%20').replace('&','%26')
+          link = "session="+row[sessionName].replace(' ','%20').replace('&','%26')
           try:
             link = session_dict[row[sessionName]]
           except:
@@ -161,8 +161,8 @@ invisible: true
           if row[demoName] != "":
             g.write("### "+row[demoName].title() +"\n{: style=\"margin-top: 10px; color: #555555; text-align: center;\"}\n\n")
           g.write("#### Poster Session "+row[posterSessionName] +"\n{: style=\"margin-top: 10px; color: #555555; text-align: center;\"}\n\n")
-          if row[posterName] != "":
-            g.write("#### Poster "+row[posterName]+"\n{: style=\"margin-top: 10px; color: #555555; text-align: center;\"}\n\n")
+          #if row[posterName] != "":
+            #g.write("#### Poster "+row[posterName]+"\n{: style=\"margin-top: 10px; color: #555555; text-align: center;\"}\n\n")
 
 
 
