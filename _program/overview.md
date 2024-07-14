@@ -100,7 +100,7 @@ published: true
               <td style="background-color: #E2F0D950;">2:00PM</td>
                 <td rowspan=6  style="background-color: #FFD96650;">Registration desk opens (2:00 pm - 5:00 pm)</td>
                <td rowspan=3 style="background-color: #BDD7EE50;"><a href="{{ site.baseurl }}/program/workshops#monday-july-10">Workshop Session</a></td>
-               <td rowspan=2 style="background-color: #FFFFFF;"><a>Test of time paper "LOAM: Lidar Odometry and Mapping in Real-time"</a></td>
+               <td rowspan=2 style="background-color: #FFFFFF;">Test of time paper "LOAM: Lidar Odometry and Mapping in Real-time"</td>
               </tr>
        <tr>
               <td style="background-color: #E2F0D950;">2:30PM</td>
@@ -151,7 +151,7 @@ published: true
        <tr>
               <td style="background-color: #E2F0D950;">6:30PM</td>
               <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
-              <td rowspan=7 style="background-color: #D3D3D3;"><a>Banqueting start at 6:30 pm  – 10:00 pm</a></td>
+              <td rowspan=7 style="background-color: #D3D3D3;">Banqueting start at 6:30 pm  – 10:00 pm</td>
               <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
               
        </tr>
