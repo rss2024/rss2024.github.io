@@ -8,7 +8,15 @@ published: true
 ---
 
 
-
+<style>
+@media (max-width: 600px) {
+  .schedule {
+    display: table !important; /* Override display property */
+    width: 100% !important; /* Ensure table width is responsive */
+    overflow-x: auto; /* Enable horizontal scrolling for wide tables */
+  }
+}
+</style>
 
 <table class="schedule" cellspacing="0" border="0">
        <tr>
@@ -152,8 +160,7 @@ published: true
               <td style="background-color: #E2F0D950;">6:30PM</td>
               <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
               <td rowspan=7 style="background-color: #D3D3D3;">Banqueting start at 6:30 pm  – 10:00 pm</td>
-              <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td>
-              
+              <td rowspan=1 style="background-color: #FFFFFF;"><a></a></td> 
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">7:00PM</td>
