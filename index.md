@@ -158,6 +158,7 @@ tutorials. This year, as always, we solicit your best work.
      <img alt="Lely" src="/2024/images/sponsors/2024-10.png" style="width: 100px;" />
      <img alt="Lely" src="/2024/images/sponsors/2024-11.png" style="width: 80px;" />
      <img alt="Lely" src="/2024/images/sponsors/2024-12.jpeg" style="width: 150px;" />
+     <img alt="Lely" src="/2024/images/sponsors/unitree.png" style="width: 150px;" />
      <img alt="Lely" src="/2024/images/sponsors/2024-14.png" style="width: 150px;" />
   <img alt="Delft Municipality" src="/2024/images/sponsors/Gemeente2024.jpg" style="width: 250px; " />
   <img alt="RoboHouse" src="/2024/images/sponsors/RoboHouse2024.svg" style="width: 100px; " />
