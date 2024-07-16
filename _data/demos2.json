@@ -8,14 +8,6 @@
     "time": "9:30-10:00; 12:00-13:30; 15:30-16:00; 18:00-18:30"
   },
   {
-    "papernumber": 14,
-    "papertitle": "Demonstrating Learning from Humans on Open-Source Dexterous Robot Hands",
-    "link": "https://roboticsconference.org/program/papers/14/",
-    "demoday": "Thursday",
-    "demolocation": "van Hasseltzaal",
-    "time": "9:30-10:00; 12:30-14:00; 15:00-15:30; 16:30-17:00"
-  },
-  {
     "papernumber": 17,
     "papertitle": "Demonstrating Event-Triggered Investigation and Sample Collection for Human Scientists using Field Robots and Large Foundation Models",
     "link": "https://roboticsconference.org/program/papers/17/",
@@ -54,6 +46,14 @@
     "demoday": "Wednesday",
     "demolocation": "van Hasseltzaal",
     "time": "9:30-10:00; 12:00-13:30; 15:30-16:00"
+  },
+  {
+    "papernumber": 14,
+    "papertitle": "Demonstrating Learning from Humans on Open-Source Dexterous Robot Hands",
+    "link": "https://roboticsconference.org/program/papers/14/",
+    "demoday": "Thursday",
+    "demolocation": "van Hasseltzaal",
+    "time": "9:30-10:00; 12:30-14:00; 15:00-15:30; 16:30-17:00"
   },
   {
     "papernumber": 91,
