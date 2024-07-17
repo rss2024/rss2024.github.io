@@ -90,12 +90,13 @@ published: true
        <tr>
               <td style="background-color: #E2F0D950;">12:30PM</td>
               <td rowspan=3 style="background-color: #D9D9D950;">Lunch</td>
-              <td rowspan=2 style="background-color: #D9D9D950;"><a href="https://drive.google.com/file/d/1_GsxKSjMqMQl54fP76FdZLjk2O6sLuap/view?usp=drive_link">Lely’s industry talk (12:30 - 12:45)</a> + Lunch</td>
+              <td rowspan=1 style="background-color: #D9D9D950;"><a href="https://www.lely.com/us/">Lely’s industry talk (12:30 - 12:45)</a> </td>
               </tr>
        <tr>
               <td style="background-color: #E2F0D950;">1:00PM</td>
               <td rowspan=1 style="background-color: #D9D9D950;">Lunch and posters planning and manipulation</td>
               <td rowspan=1 style="background-color: #D9D9D950;">Lunch and posters perception and navigation, and locomotion and manipulation</td>
+              <td rowspan=1 style="background-color: #D9D9D950;">Lunch (12:45-13:30)</td>
               </tr>              
        <tr>
               <td style="background-color: #E2F0D950;">1:30PM</td>
