@@ -4,71 +4,53 @@ title: Awards
 description: Award details.
 priority: 6
 invisible: false
-published: false
+published: true
 ---
 
+### Outstanding Demo Paper Award Finalists
 
-Congratulations to the following authors!
+**Demonstrating CropFollow++: Robust Under-Canopy Navigation with Keypoints**
 
-## Best Paper Award Finalists
+*Arun Narenthiran Sivakumar, Mateus Valverde Gasparino, Michael McGuire, Vitor Akihiro Hisano Higuti, M. Ugur Akcal, Girish Chowdhary*
 
- {% for paper in site.data.rss2023CameraReadyInfo %}
- {% if paper.AwardNom == "BEST" %}
+**Demonstrating Agile Flight from Pixels without State Estimation**
 
-<a class="{{ paper.AwardWinner }}" href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
-}}/">{{paper.PaperTitle}}</a>
-<br>
-<i>{{ paper.AuthorNames | replace: ';', ' and ' | replace: '*', ''}}</i>
+*Ismail Geles, Leonard Bauersfeld, Angel Romero, Jiaxu Xing, Davide Scaramuzza*
 
- {% endif %}
- {% endfor %}
+### Outstanding Systems Paper Award Finalists
 
+**Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots**
 
-<hr>
- 
-## Best System Paper Award Finalists
+*Cheng Chi, Zhenjia Xu, Chuer Pan, Eric Cousineau, Benjamin Burchfiel, Siyuan Feng, Russ Tedrake, Shuran Song*
 
- {% for paper in site.data.rss2023CameraReadyInfo %}
- {% if paper.AwardNom == "BEST SYSTEM" %}
+**Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments**
 
-<a class="{{ paper.AwardWinner }}" href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
-}}/">{{paper.PaperTitle}}</a>
-<br>
-<i>{{ paper.AuthorNames | replace: ';', ' and ' | replace: '*', ''}}</i>
+*Lukas Schmid, Marcus Abate, Yun Chang, Luca Carlone*
 
- {% endif %}
- {% endfor %}
+### Outstanding Student Paper Award Finalists
 
+**Dynamic On-Palm Manipulation via Controlled Sliding**
 
-<hr>
- 
-## Best Student Paper Award Finalists
+*William Yang, Michael Posa*
 
- {% for paper in site.data.rss2023CameraReadyInfo %}
- {% if paper.AwardNom == "BEST STUDENT" %}
+**Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion**
 
-<a class="{{ paper.AwardWinner }}" href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
-}}/">{{paper.PaperTitle}}</a>
-<br>
-<i>{{ paper.AuthorNames | replace: ';', ' and ' | replace: '*', ''}}</i>
+*Tairan He, Chong Zhang, Wenli Xiao, Guanqi He, Changliu Liu, Guanya Shi*
 
- {% endif %}
- {% endfor %}
+**ScrewMimic: Bimanual Imitation from Human Videos with Screw Space Projection**
 
+*Arpit Bahety, Priyanka Mandikal, Ben Abbatematteo, Roberto Martín-Martín*
 
-<hr>
- 
-## Best Demo Paper Award Finalists
+### Outstanding Paper Award Finalists
 
- {% for paper in site.data.rss2023CameraReadyInfo %}
- {% if paper.AwardNom == "BEST DEMO" %}
+**Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning**
 
-<a class="{{ paper.AwardWinner }}" href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
-}}/">{{paper.PaperTitle}}</a>
-<br>
-<i>{{ paper.AuthorNames | replace: ';', ' and ' | replace: '*', ''}}</i>
+*Xinyang Gu, Yen-Jen Wang, Xiang Zhu, Chengming Shi, Yanjiang Guo, Yichen Liu, Jianyu Chen*
 
- {% endif %}
- {% endfor %}
+**Real-Time Anomaly Detection and Reactive Planning with Large Language Models**
 
-<hr>
+*Rohan Sinha, Amine Elhafsi, Christopher Agia, Matt Foutter, Edward Schmerling, Marco Pavone*
+
+**Configuration Space Distance Fields for Manipulation Planning**
+
+*Yiming Li, Xuemin Chi, Amirreza Razmjoo, Sylvain Calinon*
