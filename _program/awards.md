@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Awards
-description: Award details.
+description: Award.
 priority: 6
 invisible: false
 published: true
