@@ -171,7 +171,7 @@ tutorials. This year, as always, we solicit your best work.
 
 
 
-The organizers welcome you to the vibrant venue of RSS 2024 
+The organizers welcome you to the vibrant venue of RSS 2024.
 
 
 

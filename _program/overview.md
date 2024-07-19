@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Overview
-description: Overview of the program.
+description: Overview of the program
 priority: 12
 invisible: false
 published: true
