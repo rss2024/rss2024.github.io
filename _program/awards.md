@@ -2,7 +2,8 @@
 layout: page
 title: Awards
 description: Award.
-priority: 6
+days: ['Mon', 'Fri']
+priority: 9
 invisible: false
 published: true
 ---
