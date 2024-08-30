@@ -46,7 +46,8 @@ def main():
         parser.add_argument('sessions_db', help='Path to sessions list with chairs')
     args = parser.parse_args()
 
-    os.makedirs(args.outdir, exist_ok=True)
+    if not os.path.exists(args.outdir):
+          os.makedirs(args.outdir)
 
     f = open(args.csv_program, 'r')
     fileObject = csv.reader(f)
@@ -125,7 +126,7 @@ invisible: true
           # Write link to paper PDF
           # <div> <a href="http://www.roboticsproceedings.org/rss19/p{}.pdf">Paper&nbsp;#{}</a> </div>
           paperIconString = '''<div class="paper-pdf">
-                <div> <a href="https://enriquecoronadozu.github.io/rssproceedings2024/rss20/p{}.pdf"><img src="{{{{ site.baseurl }}}}/images/paper_link.png" alt="Paper Website" width = "33"  height = "40"/></a> </div>
+                <div> <a href="https://www.roboticsproceedings.org/rss20/p{}.pdf"><img src="{{{{ site.baseurl }}}}/images/paper_link.png" alt="Paper Website" width = "33"  height = "40"/></a> </div>
                 </div>\n\n'''.format(paperIDValue.zfill(3))
           if paperIDValue not in embargo:
             g.write(paperIconString)
